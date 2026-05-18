@@ -1,0 +1,26 @@
+entity_id,entity_name,segment,priority_score,avg_risk_score,avg_quality_score,estimated_impact
+CUS009,Customer campaign 9,Watch,93.53,51.3,79.6,773308
+CUS001,Customer campaign 1,Growth,90.55,49.3,79.5,747389
+CUS013,Customer campaign 13,Strategic,88.20,49.3,78.7,711057
+CUS020,Customer campaign 20,Strategic,87.94,51.8,79.4,688875
+CUS028,Customer campaign 28,Growth,85.44,50.7,80.3,668005
+CUS005,Customer campaign 5,Watch,85.31,55.7,80.0,621317
+CUS031,Customer campaign 31,Core,84.92,54.5,82.2,636020
+CUS033,Customer campaign 33,Growth,84.16,53.9,80.3,622325
+CUS011,Customer campaign 11,Core,83.25,50.9,81.5,640603
+CUS025,Customer campaign 25,Watch,82.88,51.9,81.7,627450
+CUS010,Customer campaign 10,Growth,81.90,53.7,77.0,577471
+CUS036,Customer campaign 36,Strategic,81.64,50.6,80.8,618104
+CUS030,Customer campaign 30,Core,81.63,54.8,79.0,572999
+CUS016,Customer campaign 16,Watch,81.33,52.5,81.0,597139
+CUS018,Customer campaign 18,Strategic,80.87,53.5,82.1,587533
+CUS019,Customer campaign 19,Core,80.26,52.8,81.6,583288
+CUS017,Customer campaign 17,Core,79.99,52.0,80.3,580320
+CUS032,Customer campaign 32,Watch,78.62,50.4,80.6,576408
+CUS022,Customer campaign 22,Watch,78.61,50.7,81.7,578319
+CUS002,Customer campaign 2,Strategic,78.43,51.0,82.2,575695
+CUS023,Customer campaign 23,Growth,77.15,52.1,80.1,539032
+CUS026,Customer campaign 26,Growth,77.06,48.6,79.9,566950
+CUS007,Customer campaign 7,Growth,76.83,49.9,80.4,554491
+CUS004,Customer campaign 4,Strategic,76.16,48.6,80.5,556708
+CUS012,Customer campaign 12,Core,75.89,48.5,80.9,555729
