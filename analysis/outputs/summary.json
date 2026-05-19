@@ -1,0 +1,14 @@
+{
+  "total_spend": 1629419,
+  "total_gross": 8766958,
+  "avg_roas": 5.38,
+  "booked_appointments": 38792,
+  "shown_appointments": 29871,
+  "show_rate": 0.77,
+  "retention_queue_customers": 40,
+  "retention_queue_expected_gross": 7910,
+  "budget_waste": 487990,
+  "high_quality_sources": 6,
+  "source_count": 9,
+  "top_opportunity_type": "Recall due"
+}

@@ -1,0 +1,10 @@
+source,rows,freshness_score,match_rate,join_key,quality_risk,recommended_control
+CRM customer records,4025,97,0.91,customer_id,7.6,Monitor in weekly load check
+DMS service history,2466,99,0.95,vin,4.0,Monitor in weekly load check
+Recall manifest,2960,74,0.84,vin,22.9,Monitor in weekly load check
+State inspection list,4865,88,0.79,vin,20.1,Monitor in weekly load check
+Hunter alignment export,8230,61,0.68,repair_order,47.9,Map owner and reconcile weekly
+Phone system leads,7288,82,0.72,phone,35.7,Map owner and reconcile weekly
+Google Analytics events,935,96,0.76,gclid,18.6,Monitor in weekly load check
+Paid media invoices,7191,93,0.88,campaign_id,11.6,Monitor in weekly load check
+Social content calendar,2702,86,0.81,post_id,19.6,Monitor in weekly load check

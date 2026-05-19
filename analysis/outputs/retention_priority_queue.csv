@@ -1,0 +1,41 @@
+customer_id,rooftop,brand,opportunity_type,best_channel,priority_score,predicted_book_rate,estimated_gross,owner,recommended_next_step
+CUST0342,Chrysler Dodge Jeep Ram,Commercial,Recall due,Email + SMS,99.6,0.418,420,Service,Send safety recall booking sequence
+CUST0008,Chrysler Dodge Jeep Ram,Jeep,Recall due,Email + SMS,98.6,0.384,498,Service,Send safety recall booking sequence
+CUST0058,Ford,Ford,Recall due,Email + SMS,97.4,0.403,472,Service,Send safety recall booking sequence
+CUST0413,Ford,Ford,Recall due,Phone follow-up,97.3,0.376,472,Service,Send safety recall booking sequence
+CUST0423,Chrysler Dodge Jeep Ram,Commercial,Recall due,Email + SMS,96.5,0.399,551,Service,Send safety recall booking sequence
+CUST0182,Ford,Ford,Recall due,Email + SMS,95.9,0.474,498,Service,Send safety recall booking sequence
+CUST0085,Chrysler Dodge Jeep Ram,Jeep,Declined work recovery,Phone + Email,93.4,0.333,649,Service,Send deferred maintenance estimate recap
+CUST0087,Chrysler Dodge Jeep Ram,Jeep,Recall due,Phone + Email,93.4,0.415,577,Service,Send safety recall booking sequence
+CUST0263,Ford,Commercial,Recall due,Phone follow-up,92.8,0.376,525,Service,Send safety recall booking sequence
+CUST0056,Ford,Commercial,Recall due,Phone + Email,90.0,0.405,472,Service,Send safety recall booking sequence
+CUST0187,Chrysler Dodge Jeep Ram,Ram,Declined work recovery,Email + SMS,90.0,0.316,683,Service,Send deferred maintenance estimate recap
+CUST0316,Ford,Commercial,Declined work recovery,Email + SMS,89.0,0.309,751,Service,Send deferred maintenance estimate recap
+CUST0417,Ford,Ford,Recall due,Phone + Email,87.8,0.459,393,Service,Send safety recall booking sequence
+CUST0362,Chrysler Dodge Jeep Ram,Chrysler,Recall due,Email + SMS,87.7,0.396,393,Service,Send safety recall booking sequence
+CUST0468,Ford,Ford,Recall due,Email + SMS,87.4,0.433,472,Service,Send safety recall booking sequence
+CUST0404,Ford,Ford,Recall due,Email + SMS,86.5,0.378,367,Service,Send safety recall booking sequence
+CUST0453,Ford,Commercial,Recall due,Phone + Email,86.3,0.44,472,Service,Send safety recall booking sequence
+CUST0100,Chrysler Dodge Jeep Ram,Chrysler,Declined work recovery,Email + SMS,85.2,0.314,649,Service,Send deferred maintenance estimate recap
+CUST0014,Chrysler Dodge Jeep Ram,Ram,Recall due,Email + SMS,85.0,0.412,446,Service,Send safety recall booking sequence
+CUST0399,Ford,Commercial,Declined work recovery,Email + SMS,84.9,0.308,580,Service,Send deferred maintenance estimate recap
+CUST0115,Chrysler Dodge Jeep Ram,Commercial,Recall due,Email + SMS,84.5,0.434,551,Service,Send safety recall booking sequence
+CUST0324,Chrysler Dodge Jeep Ram,Dodge,Recall due,Phone follow-up,84.4,0.377,525,Service,Send safety recall booking sequence
+CUST0101,Chrysler Dodge Jeep Ram,Ram,Recall due,Phone follow-up,84.3,0.418,393,Service,Send safety recall booking sequence
+CUST0005,Chrysler Dodge Jeep Ram,Dodge,Recall due,Email + SMS,83.5,0.446,525,Service,Send safety recall booking sequence
+CUST0384,Chrysler Dodge Jeep Ram,Jeep,Recall due,Phone + Email,83.2,0.428,525,Service,Send safety recall booking sequence
+CUST0330,Chrysler Dodge Jeep Ram,Jeep,Recall due,Phone + Email,83.0,0.417,367,Service,Send safety recall booking sequence
+CUST0394,Ford,Ford,Recall due,Email + SMS,82.8,0.43,525,Service,Send safety recall booking sequence
+CUST0426,Chrysler Dodge Jeep Ram,Jeep,Recall due,Email + SMS,82.8,0.437,577,Service,Send safety recall booking sequence
+CUST0391,Ford,Ford,Recall due,Email + SMS,82.4,0.375,341,Service,Send safety recall booking sequence
+CUST0068,Ford,Commercial,Recall due,Email + SMS,82.2,0.381,367,Service,Send safety recall booking sequence
+CUST0469,Chrysler Dodge Jeep Ram,Ram,Recall due,Email + SMS,81.8,0.387,393,Service,Send safety recall booking sequence
+CUST0215,Ford,Ford,Recall due,Phone + Email,81.7,0.369,446,Service,Send safety recall booking sequence
+CUST0419,Ford,Commercial,Recall due,Email + SMS,81.7,0.405,472,Service,Send safety recall booking sequence
+CUST0380,Ford,Ford,Declined work recovery,Email + SMS,81.6,0.292,683,Service,Send deferred maintenance estimate recap
+CUST0035,Chrysler Dodge Jeep Ram,Chrysler,Commercial fleet service,Phone + Email,81.3,0.278,650,Commercial,Assign fleet service cadence outreach
+CUST0266,Ford,Ford,Declined work recovery,Email + SMS,81.2,0.334,546,Service,Send deferred maintenance estimate recap
+CUST0245,Ford,Ford,Recall due,Email + SMS,81.0,0.383,420,Service,Send safety recall booking sequence
+CUST0086,Chrysler Dodge Jeep Ram,Jeep,Recall due,Email + SMS,80.9,0.408,420,Service,Send safety recall booking sequence
+CUST0077,Chrysler Dodge Jeep Ram,Dodge,Commercial fleet service,Phone + Email,80.8,0.334,1040,Commercial,Assign fleet service cadence outreach
+CUST0114,Ford,Commercial,Commercial fleet service,Email + SMS,80.7,0.293,910,Commercial,Assign fleet service cadence outreach

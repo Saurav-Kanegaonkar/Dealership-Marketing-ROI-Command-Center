@@ -1,0 +1,5 @@
+use_case,workflow,owner,effort_hours,expected_monthly_gross,risk_level,control
+Recall outreach content assistant,Draft channel-specific copy from VIN recall type and appointment availability,Marketing,12,18600,Low,Human approval before send
+Service lapse targeting score,"Prioritize customers by service gap, lifetime RO count, and response history",Service,18,24750,Medium,Explainable scorecard and opt-out filters
+Inbound call summarizer,"Summarize phone leads, tag intent, and route missed opportunities",BDC,22,15300,Medium,PII minimization and transcript retention policy
+Photo and social post QA checklist,"Check missing photos, captions, and brand-safe vehicle posts",Marketing,10,8900,Low,Template library and final human review

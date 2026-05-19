@@ -1,0 +1,545 @@
+customer_id,rooftop,brand,opportunity_type,best_channel,priority_score,predicted_book_rate,estimated_gross,owner,recommended_next_step
+CUST0342,Chrysler Dodge Jeep Ram,Commercial,Recall due,Email + SMS,99.6,0.418,420,Service,Send safety recall booking sequence
+CUST0008,Chrysler Dodge Jeep Ram,Jeep,Recall due,Email + SMS,98.6,0.384,498,Service,Send safety recall booking sequence
+CUST0342,Chrysler Dodge Jeep Ram,Commercial,Declined work recovery,Email + SMS,97.5,0.328,546,Service,Send deferred maintenance estimate recap
+CUST0058,Ford,Ford,Recall due,Email + SMS,97.4,0.403,472,Service,Send safety recall booking sequence
+CUST0413,Ford,Ford,Recall due,Phone follow-up,97.3,0.376,472,Service,Send safety recall booking sequence
+CUST0413,Ford,Ford,Commercial fleet service,Phone follow-up,97.1,0.266,780,Commercial,Assign fleet service cadence outreach
+CUST0423,Chrysler Dodge Jeep Ram,Commercial,Recall due,Email + SMS,96.5,0.399,551,Service,Send safety recall booking sequence
+CUST0182,Ford,Ford,Recall due,Email + SMS,95.9,0.474,498,Service,Send safety recall booking sequence
+CUST0342,Chrysler Dodge Jeep Ram,Commercial,State inspection due,Email + SMS,95.8,0.348,380,Service,Trigger inspection reminder with online scheduler
+CUST0058,Ford,Ford,Declined work recovery,Email + SMS,95.6,0.313,615,Service,Send deferred maintenance estimate recap
+CUST0413,Ford,Ford,Declined work recovery,Phone follow-up,95.5,0.286,615,Service,Send deferred maintenance estimate recap
+CUST0008,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Email + SMS,94.7,0.314,451,Service,Trigger inspection reminder with online scheduler
+CUST0182,Ford,Ford,Declined work recovery,Email + SMS,94.2,0.384,649,Service,Send deferred maintenance estimate recap
+CUST0008,Chrysler Dodge Jeep Ram,Jeep,Hunter alignment finding,Advisor video + SMS,93.9,0.344,308,Service,Send alignment finding video and tire offer
+CUST0413,Ford,Ford,State inspection due,Phone follow-up,93.5,0.306,427,Service,Trigger inspection reminder with online scheduler
+CUST0085,Chrysler Dodge Jeep Ram,Jeep,Declined work recovery,Phone + Email,93.4,0.333,649,Service,Send deferred maintenance estimate recap
+CUST0087,Chrysler Dodge Jeep Ram,Jeep,Recall due,Phone + Email,93.4,0.415,577,Service,Send safety recall booking sequence
+CUST0058,Ford,Ford,Hunter alignment finding,Advisor video + SMS,92.8,0.363,292,Service,Send alignment finding video and tire offer
+CUST0263,Ford,Commercial,Recall due,Phone follow-up,92.8,0.376,525,Service,Send safety recall booking sequence
+CUST0423,Chrysler Dodge Jeep Ram,Commercial,State inspection due,Email + SMS,92.6,0.329,498,Service,Trigger inspection reminder with online scheduler
+CUST0085,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Phone + Email,91.2,0.353,451,Service,Trigger inspection reminder with online scheduler
+CUST0056,Ford,Commercial,Recall due,Phone + Email,90.0,0.405,472,Service,Send safety recall booking sequence
+CUST0187,Chrysler Dodge Jeep Ram,Ram,Declined work recovery,Email + SMS,90.0,0.316,683,Service,Send deferred maintenance estimate recap
+CUST0413,Ford,Ford,Service lapse 12+ months,Phone follow-up,89.4,0.236,367,Service,Run win-back offer with advisor call list
+CUST0316,Ford,Commercial,Declined work recovery,Email + SMS,89.0,0.309,751,Service,Send deferred maintenance estimate recap
+CUST0263,Ford,Commercial,State inspection due,Phone follow-up,88.8,0.306,474,Service,Trigger inspection reminder with online scheduler
+CUST0423,Chrysler Dodge Jeep Ram,Commercial,Service lapse 12+ months,Email + SMS,88.3,0.259,428,Service,Run win-back offer with advisor call list
+CUST0087,Chrysler Dodge Jeep Ram,Jeep,Hunter alignment finding,Advisor video + SMS,88.2,0.376,357,Service,Send alignment finding video and tire offer
+CUST0263,Ford,Commercial,Hunter alignment finding,Advisor video + SMS,87.9,0.336,324,Service,Send alignment finding video and tire offer
+CUST0417,Ford,Ford,Recall due,Phone + Email,87.8,0.459,393,Service,Send safety recall booking sequence
+CUST0187,Chrysler Dodge Jeep Ram,Ram,State inspection due,Email + SMS,87.7,0.336,474,Service,Trigger inspection reminder with online scheduler
+CUST0362,Chrysler Dodge Jeep Ram,Chrysler,Recall due,Email + SMS,87.7,0.396,393,Service,Send safety recall booking sequence
+CUST0468,Ford,Ford,Recall due,Email + SMS,87.4,0.433,472,Service,Send safety recall booking sequence
+CUST0085,Chrysler Dodge Jeep Ram,Jeep,Service lapse 12+ months,Phone + Email,87.1,0.283,387,Service,Run win-back offer with advisor call list
+CUST0187,Chrysler Dodge Jeep Ram,Ram,Hunter alignment finding,Advisor video + SMS,86.7,0.366,324,Service,Send alignment finding video and tire offer
+CUST0404,Ford,Ford,Recall due,Email + SMS,86.5,0.378,367,Service,Send safety recall booking sequence
+CUST0316,Ford,Commercial,State inspection due,Email + SMS,86.4,0.329,522,Service,Trigger inspection reminder with online scheduler
+CUST0453,Ford,Commercial,Recall due,Phone + Email,86.3,0.44,472,Service,Send safety recall booking sequence
+CUST0056,Ford,Commercial,State inspection due,Phone + Email,86.1,0.335,427,Service,Trigger inspection reminder with online scheduler
+CUST0453,Ford,Commercial,Commercial fleet service,Phone + Email,86.1,0.33,780,Commercial,Assign fleet service cadence outreach
+CUST0362,Chrysler Dodge Jeep Ram,Chrysler,Declined work recovery,Email + SMS,85.5,0.306,512,Service,Send deferred maintenance estimate recap
+CUST0100,Chrysler Dodge Jeep Ram,Chrysler,Declined work recovery,Email + SMS,85.2,0.314,649,Service,Send deferred maintenance estimate recap
+CUST0014,Chrysler Dodge Jeep Ram,Ram,Recall due,Email + SMS,85.0,0.412,446,Service,Send safety recall booking sequence
+CUST0399,Ford,Commercial,Declined work recovery,Email + SMS,84.9,0.308,580,Service,Send deferred maintenance estimate recap
+CUST0263,Ford,Commercial,Service lapse 12+ months,Phone follow-up,84.7,0.236,408,Service,Run win-back offer with advisor call list
+CUST0115,Chrysler Dodge Jeep Ram,Commercial,Recall due,Email + SMS,84.5,0.434,551,Service,Send safety recall booking sequence
+CUST0324,Chrysler Dodge Jeep Ram,Dodge,Recall due,Phone follow-up,84.4,0.377,525,Service,Send safety recall booking sequence
+CUST0101,Chrysler Dodge Jeep Ram,Ram,Recall due,Phone follow-up,84.3,0.418,393,Service,Send safety recall booking sequence
+CUST0417,Ford,Ford,Hunter alignment finding,Advisor video + SMS,83.7,0.419,243,Service,Send alignment finding video and tire offer
+CUST0468,Ford,Ford,State inspection due,Email + SMS,83.6,0.363,427,Service,Trigger inspection reminder with online scheduler
+CUST0005,Chrysler Dodge Jeep Ram,Dodge,Recall due,Email + SMS,83.5,0.446,525,Service,Send safety recall booking sequence
+CUST0384,Chrysler Dodge Jeep Ram,Jeep,Recall due,Phone + Email,83.2,0.428,525,Service,Send safety recall booking sequence
+CUST0100,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Email + SMS,83.1,0.334,451,Service,Trigger inspection reminder with online scheduler
+CUST0014,Chrysler Dodge Jeep Ram,Ram,Declined work recovery,Email + SMS,83.0,0.322,580,Service,Send deferred maintenance estimate recap
+CUST0330,Chrysler Dodge Jeep Ram,Jeep,Recall due,Phone + Email,83.0,0.417,367,Service,Send safety recall booking sequence
+CUST0394,Ford,Ford,Recall due,Email + SMS,82.8,0.43,525,Service,Send safety recall booking sequence
+CUST0426,Chrysler Dodge Jeep Ram,Jeep,Recall due,Email + SMS,82.8,0.437,577,Service,Send safety recall booking sequence
+CUST0404,Ford,Ford,Hunter alignment finding,Advisor video + SMS,82.6,0.338,227,Service,Send alignment finding video and tire offer
+CUST0453,Ford,Commercial,State inspection due,Phone + Email,82.5,0.37,427,Service,Trigger inspection reminder with online scheduler
+CUST0391,Ford,Ford,Recall due,Email + SMS,82.4,0.375,341,Service,Send safety recall booking sequence
+CUST0068,Ford,Commercial,Recall due,Email + SMS,82.2,0.381,367,Service,Send safety recall booking sequence
+CUST0316,Ford,Commercial,Service lapse 12+ months,Email + SMS,82.1,0.259,449,Service,Run win-back offer with advisor call list
+CUST0056,Ford,Commercial,Service lapse 12+ months,Phone + Email,82.0,0.265,367,Service,Run win-back offer with advisor call list
+CUST0469,Chrysler Dodge Jeep Ram,Ram,Recall due,Email + SMS,81.8,0.387,393,Service,Send safety recall booking sequence
+CUST0215,Ford,Ford,Recall due,Phone + Email,81.7,0.369,446,Service,Send safety recall booking sequence
+CUST0419,Ford,Commercial,Recall due,Email + SMS,81.7,0.405,472,Service,Send safety recall booking sequence
+CUST0380,Ford,Ford,Declined work recovery,Email + SMS,81.6,0.292,683,Service,Send deferred maintenance estimate recap
+CUST0419,Ford,Commercial,Commercial fleet service,Email + SMS,81.5,0.295,780,Commercial,Assign fleet service cadence outreach
+CUST0035,Chrysler Dodge Jeep Ram,Chrysler,Commercial fleet service,Phone + Email,81.3,0.278,650,Commercial,Assign fleet service cadence outreach
+CUST0014,Chrysler Dodge Jeep Ram,Ram,State inspection due,Email + SMS,81.2,0.342,403,Service,Trigger inspection reminder with online scheduler
+CUST0266,Ford,Ford,Declined work recovery,Email + SMS,81.2,0.334,546,Service,Send deferred maintenance estimate recap
+CUST0245,Ford,Ford,Recall due,Email + SMS,81.0,0.383,420,Service,Send safety recall booking sequence
+CUST0086,Chrysler Dodge Jeep Ram,Jeep,Recall due,Email + SMS,80.9,0.408,420,Service,Send safety recall booking sequence
+CUST0077,Chrysler Dodge Jeep Ram,Dodge,Commercial fleet service,Phone + Email,80.8,0.334,1040,Commercial,Assign fleet service cadence outreach
+CUST0114,Ford,Commercial,Commercial fleet service,Email + SMS,80.7,0.293,910,Commercial,Assign fleet service cadence outreach
+CUST0101,Chrysler Dodge Jeep Ram,Ram,State inspection due,Phone follow-up,80.6,0.348,356,Service,Trigger inspection reminder with online scheduler
+CUST0330,Chrysler Dodge Jeep Ram,Jeep,Declined work recovery,Phone + Email,80.6,0.328,478,Service,Send deferred maintenance estimate recap
+CUST0324,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Phone follow-up,80.5,0.307,474,Service,Trigger inspection reminder with online scheduler
+CUST0101,Chrysler Dodge Jeep Ram,Ram,Hunter alignment finding,Advisor video + SMS,80.2,0.378,243,Service,Send alignment finding video and tire offer
+CUST0315,Chrysler Dodge Jeep Ram,Dodge,Declined work recovery,Phone + Email,80.2,0.337,683,Service,Send deferred maintenance estimate recap
+CUST0035,Chrysler Dodge Jeep Ram,Chrysler,Declined work recovery,Phone + Email,80.1,0.298,512,Service,Send deferred maintenance estimate recap
+CUST0362,Chrysler Dodge Jeep Ram,Chrysler,Service lapse 12+ months,Email + SMS,80.1,0.256,306,Service,Run win-back offer with advisor call list
+CUST0117,Ford,Commercial,Recall due,Email + SMS,80.0,0.406,472,Service,Send safety recall booking sequence
+CUST0215,Ford,Ford,Declined work recovery,Phone + Email,79.7,0.279,580,Service,Send deferred maintenance estimate recap
+CUST0469,Chrysler Dodge Jeep Ram,Ram,Declined work recovery,Email + SMS,79.6,0.297,512,Service,Send deferred maintenance estimate recap
+CUST0189,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Email + SMS,79.3,0.323,474,Service,Trigger inspection reminder with online scheduler
+CUST0330,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Phone + Email,79.3,0.348,332,Service,Trigger inspection reminder with online scheduler
+CUST0380,Ford,Ford,State inspection due,Email + SMS,79.3,0.312,474,Service,Trigger inspection reminder with online scheduler
+CUST0365,Ford,Commercial,Recall due,Email + SMS,79.1,0.424,472,Service,Send safety recall booking sequence
+CUST0399,Ford,Commercial,Service lapse 12+ months,Email + SMS,79.1,0.258,347,Service,Run win-back offer with advisor call list
+CUST0103,Chrysler Dodge Jeep Ram,Ram,Declined work recovery,Email + SMS,79.0,0.322,717,Service,Send deferred maintenance estimate recap
+CUST0404,Ford,Ford,Service lapse 12+ months,Email + SMS,79.0,0.238,285,Service,Run win-back offer with advisor call list
+CUST0394,Ford,Ford,State inspection due,Email + SMS,78.9,0.36,474,Service,Trigger inspection reminder with online scheduler
+CUST0426,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Email + SMS,78.9,0.367,522,Service,Trigger inspection reminder with online scheduler
+CUST0086,Chrysler Dodge Jeep Ram,Jeep,Declined work recovery,Email + SMS,78.8,0.318,546,Service,Send deferred maintenance estimate recap
+CUST0391,Ford,Ford,State inspection due,Email + SMS,78.8,0.305,308,Service,Trigger inspection reminder with online scheduler
+CUST0396,Ford,Ford,State inspection due,Phone + Email,78.7,0.32,451,Service,Trigger inspection reminder with online scheduler
+CUST0035,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Phone + Email,78.6,0.318,356,Service,Trigger inspection reminder with online scheduler
+CUST0068,Ford,Commercial,State inspection due,Email + SMS,78.5,0.311,332,Service,Trigger inspection reminder with online scheduler
+CUST0189,Chrysler Dodge Jeep Ram,Chrysler,Hunter alignment finding,Advisor video + SMS,78.3,0.353,324,Service,Send alignment finding video and tire offer
+CUST0131,Ford,Commercial,Declined work recovery,Email + SMS,78.2,0.315,444,Service,Send deferred maintenance estimate recap
+CUST0469,Chrysler Dodge Jeep Ram,Ram,State inspection due,Email + SMS,78.1,0.317,356,Service,Trigger inspection reminder with online scheduler
+CUST0315,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Phone + Email,77.9,0.357,474,Service,Trigger inspection reminder with online scheduler
+CUST0272,Chrysler Dodge Jeep Ram,Dodge,Recall due,Phone follow-up,77.8,0.411,525,Service,Send safety recall booking sequence
+CUST0298,Chrysler Dodge Jeep Ram,Jeep,Declined work recovery,Email + SMS,77.8,0.338,717,Service,Send deferred maintenance estimate recap
+CUST0396,Ford,Ford,Hunter alignment finding,Advisor video + SMS,77.8,0.35,308,Service,Send alignment finding video and tire offer
+CUST0472,Ford,Commercial,Recall due,Email + SMS,77.5,0.393,446,Service,Send safety recall booking sequence
+CUST0214,Ford,Commercial,State inspection due,Email + SMS,77.3,0.317,498,Service,Trigger inspection reminder with online scheduler
+CUST0245,Ford,Ford,State inspection due,Email + SMS,77.2,0.313,380,Service,Trigger inspection reminder with online scheduler
+CUST0388,Ford,Ford,Declined work recovery,Email + SMS,77.2,0.288,512,Service,Send deferred maintenance estimate recap
+CUST0086,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Email + SMS,77.1,0.338,380,Service,Trigger inspection reminder with online scheduler
+CUST0043,Ford,Commercial,Hunter alignment finding,Advisor video + SMS,76.4,0.347,260,Service,Send alignment finding video and tire offer
+CUST0363,Ford,Ford,Recall due,Email + SMS,76.4,0.425,446,Service,Send safety recall booking sequence
+CUST0255,Ford,Commercial,Recall due,Email + SMS,76.3,0.436,472,Service,Send safety recall booking sequence
+CUST0114,Ford,Commercial,State inspection due,Email + SMS,76.2,0.333,498,Service,Trigger inspection reminder with online scheduler
+CUST0214,Ford,Commercial,Hunter alignment finding,Advisor video + SMS,76.2,0.347,341,Service,Send alignment finding video and tire offer
+CUST0117,Ford,Commercial,State inspection due,Email + SMS,76.1,0.336,427,Service,Trigger inspection reminder with online scheduler
+CUST0403,Ford,Commercial,Recall due,Email + SMS,76.0,0.396,393,Service,Send safety recall booking sequence
+CUST0466,Chrysler Dodge Jeep Ram,Chrysler,Hunter alignment finding,Advisor video + SMS,75.8,0.378,292,Service,Send alignment finding video and tire offer
+CUST0388,Ford,Ford,State inspection due,Email + SMS,75.7,0.308,356,Service,Trigger inspection reminder with online scheduler
+CUST0266,Ford,Ford,Service lapse 12+ months,Email + SMS,75.5,0.284,326,Service,Run win-back offer with advisor call list
+CUST0077,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Phone + Email,75.4,0.374,570,Service,Trigger inspection reminder with online scheduler
+CUST0103,Chrysler Dodge Jeep Ram,Ram,Hunter alignment finding,Advisor video + SMS,75.4,0.372,341,Service,Send alignment finding video and tire offer
+CUST0117,Ford,Commercial,Hunter alignment finding,Advisor video + SMS,75.4,0.366,292,Service,Send alignment finding video and tire offer
+CUST0377,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Phone + Email,75.4,0.372,308,Service,Trigger inspection reminder with online scheduler
+CUST0298,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Email + SMS,75.3,0.358,498,Service,Trigger inspection reminder with online scheduler
+CUST0096,Ford,Commercial,State inspection due,Phone + Email,75.2,0.371,522,Service,Trigger inspection reminder with online scheduler
+CUST0237,Chrysler Dodge Jeep Ram,Dodge,Recall due,Email + SMS,75.2,0.399,420,Service,Send safety recall booking sequence
+CUST0234,Ford,Commercial,Recall due,Email + SMS,75.1,0.426,577,Service,Send safety recall booking sequence
+CUST0380,Ford,Ford,Service lapse 12+ months,Email + SMS,75.1,0.242,408,Service,Run win-back offer with advisor call list
+CUST0391,Ford,Ford,Service lapse 12+ months,Email + SMS,75.0,0.235,265,Service,Run win-back offer with advisor call list
+CUST0403,Ford,Commercial,Commercial fleet service,Email + SMS,75.0,0.286,650,Commercial,Assign fleet service cadence outreach
+CUST0306,Chrysler Dodge Jeep Ram,Ram,Recall due,Phone follow-up,74.9,0.385,525,Service,Send safety recall booking sequence
+CUST0230,Chrysler Dodge Jeep Ram,Dodge,Recall due,Email + SMS,74.7,0.398,472,Service,Send safety recall booking sequence
+CUST0035,Chrysler Dodge Jeep Ram,Chrysler,Service lapse 12+ months,Phone + Email,74.6,0.248,306,Service,Run win-back offer with advisor call list
+CUST0076,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Phone + Email,74.5,0.373,570,Service,Trigger inspection reminder with online scheduler
+CUST0237,Chrysler Dodge Jeep Ram,Dodge,Commercial fleet service,Email + SMS,74.4,0.289,693,Commercial,Assign fleet service cadence outreach
+CUST0383,Chrysler Dodge Jeep Ram,Chrysler,Declined work recovery,Email + SMS,74.4,0.341,546,Service,Send deferred maintenance estimate recap
+CUST0133,Chrysler Dodge Jeep Ram,Chrysler,Commercial fleet service,Phone follow-up,74.3,0.242,866,Commercial,Assign fleet service cadence outreach
+CUST0203,Ford,Commercial,Recall due,Email + SMS,74.3,0.439,367,Service,Send safety recall booking sequence
+CUST0096,Ford,Commercial,Hunter alignment finding,Advisor video + SMS,74.0,0.401,357,Service,Send alignment finding video and tire offer
+CUST0215,Ford,Ford,Service lapse 12+ months,Phone + Email,73.9,0.229,347,Service,Run win-back offer with advisor call list
+CUST0337,Ford,Ford,Declined work recovery,Phone follow-up,73.9,0.27,751,Service,Send deferred maintenance estimate recap
+CUST0272,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Phone follow-up,73.8,0.341,474,Service,Trigger inspection reminder with online scheduler
+CUST0234,Ford,Commercial,Declined work recovery,Email + SMS,73.7,0.336,751,Service,Send deferred maintenance estimate recap
+CUST0315,Chrysler Dodge Jeep Ram,Dodge,Service lapse 12+ months,Phone + Email,73.7,0.287,408,Service,Run win-back offer with advisor call list
+CUST0003,Chrysler Dodge Jeep Ram,Dodge,Recall due,Email + SMS,73.5,0.427,472,Service,Send safety recall booking sequence
+CUST0479,Chrysler Dodge Jeep Ram,Dodge,Recall due,Email + SMS,73.5,0.427,472,Service,Send safety recall booking sequence
+CUST0105,Ford,Commercial,Recall due,Email + SMS,73.4,0.395,472,Service,Send safety recall booking sequence
+CUST0332,Chrysler Dodge Jeep Ram,Dodge,Recall due,Email + SMS,73.4,0.449,446,Service,Send safety recall booking sequence
+CUST0479,Chrysler Dodge Jeep Ram,Dodge,Commercial fleet service,Email + SMS,73.3,0.317,780,Commercial,Assign fleet service cadence outreach
+CUST0131,Ford,Commercial,Service lapse 12+ months,Email + SMS,73.2,0.265,265,Service,Run win-back offer with advisor call list
+CUST0238,Chrysler Dodge Jeep Ram,Jeep,Declined work recovery,Phone + Email,73.0,0.358,615,Service,Send deferred maintenance estimate recap
+CUST0043,Ford,Commercial,Service lapse 12+ months,Email + SMS,72.9,0.247,326,Service,Run win-back offer with advisor call list
+CUST0079,Chrysler Dodge Jeep Ram,Ram,Declined work recovery,Phone + Email,72.9,0.367,615,Service,Send deferred maintenance estimate recap
+CUST0444,Chrysler Dodge Jeep Ram,Jeep,Declined work recovery,Email + SMS,72.9,0.354,717,Service,Send deferred maintenance estimate recap
+CUST0383,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Email + SMS,72.8,0.361,380,Service,Trigger inspection reminder with online scheduler
+CUST0255,Ford,Commercial,State inspection due,Email + SMS,72.5,0.366,427,Service,Trigger inspection reminder with online scheduler
+CUST0475,Ford,Ford,Service lapse 12+ months,Phone + Email,72.5,0.28,449,Service,Run win-back offer with advisor call list
+CUST0103,Chrysler Dodge Jeep Ram,Ram,Service lapse 12+ months,Email + SMS,72.3,0.272,428,Service,Run win-back offer with advisor call list
+CUST0403,Ford,Commercial,State inspection due,Email + SMS,72.3,0.326,356,Service,Trigger inspection reminder with online scheduler
+CUST0462,Chrysler Dodge Jeep Ram,Commercial,Recall due,Email + SMS,72.2,0.427,420,Service,Send safety recall booking sequence
+CUST0114,Ford,Commercial,Service lapse 12+ months,Email + SMS,71.9,0.263,428,Service,Run win-back offer with advisor call list
+CUST0203,Ford,Commercial,Declined work recovery,Email + SMS,71.9,0.349,478,Service,Send deferred maintenance estimate recap
+CUST0291,Ford,Commercial,Recall due,Email + SMS,71.8,0.432,341,Service,Send safety recall booking sequence
+CUST0388,Ford,Ford,Service lapse 12+ months,Email + SMS,71.8,0.238,306,Service,Run win-back offer with advisor call list
+CUST0458,Chrysler Dodge Jeep Ram,Commercial,Declined work recovery,Email + SMS,71.8,0.294,512,Service,Send deferred maintenance estimate recap
+CUST0003,Chrysler Dodge Jeep Ram,Dodge,Declined work recovery,Email + SMS,71.7,0.337,615,Service,Send deferred maintenance estimate recap
+CUST0377,Chrysler Dodge Jeep Ram,Dodge,Service lapse 12+ months,Phone + Email,71.6,0.302,265,Service,Run win-back offer with advisor call list
+CUST0276,Chrysler Dodge Jeep Ram,Dodge,Recall due,Email + SMS,71.5,0.385,341,Service,Send safety recall booking sequence
+CUST0237,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Email + SMS,71.4,0.329,380,Service,Trigger inspection reminder with online scheduler
+CUST0282,Chrysler Dodge Jeep Ram,Dodge,Recall due,Email + SMS,71.4,0.384,498,Service,Send safety recall booking sequence
+CUST0337,Ford,Ford,State inspection due,Phone follow-up,71.3,0.29,522,Service,Trigger inspection reminder with online scheduler
+CUST0352,Chrysler Dodge Jeep Ram,Jeep,Recall due,Phone follow-up,71.2,0.384,472,Service,Send safety recall booking sequence
+CUST0079,Chrysler Dodge Jeep Ram,Ram,State inspection due,Phone + Email,70.9,0.387,427,Service,Trigger inspection reminder with online scheduler
+CUST0123,Ford,Commercial,State inspection due,Email + SMS,70.9,0.331,522,Service,Trigger inspection reminder with online scheduler
+CUST0476,Chrysler Dodge Jeep Ram,Chrysler,Recall due,Phone + Email,70.9,0.455,341,Service,Send safety recall booking sequence
+CUST0106,Ford,Ford,State inspection due,Phone + Email,70.8,0.361,380,Service,Trigger inspection reminder with online scheduler
+CUST0478,Ford,Commercial,Declined work recovery,Email + SMS,70.8,0.305,615,Service,Send deferred maintenance estimate recap
+CUST0195,Ford,Commercial,Recall due,Phone follow-up,70.7,0.428,393,Service,Send safety recall booking sequence
+CUST0350,Ford,Ford,Recall due,Phone + Email,70.7,0.434,498,Service,Send safety recall booking sequence
+CUST0046,Chrysler Dodge Jeep Ram,Jeep,Declined work recovery,Email + SMS,70.6,0.338,649,Service,Send deferred maintenance estimate recap
+CUST0339,Chrysler Dodge Jeep Ram,Commercial,State inspection due,Phone + Email,70.6,0.335,308,Service,Trigger inspection reminder with online scheduler
+CUST0369,Chrysler Dodge Jeep Ram,Commercial,Declined work recovery,Email + SMS,70.5,0.344,478,Service,Send deferred maintenance estimate recap
+CUST0414,Chrysler Dodge Jeep Ram,Chrysler,Recall due,Phone follow-up,70.2,0.379,420,Service,Send safety recall booking sequence
+CUST0474,Ford,Commercial,Recall due,Email + SMS,70.2,0.391,446,Service,Send safety recall booking sequence
+CUST0411,Ford,Ford,Recall due,Phone follow-up,70.1,0.406,498,Service,Send safety recall booking sequence
+CUST0276,Chrysler Dodge Jeep Ram,Dodge,Commercial fleet service,Email + SMS,70.0,0.275,563,Commercial,Assign fleet service cadence outreach
+CUST0326,Ford,Ford,Service lapse 12+ months,Phone follow-up,70.0,0.25,428,Service,Run win-back offer with advisor call list
+CUST0047,Ford,Commercial,Recall due,Email + SMS,69.9,0.407,393,Service,Send safety recall booking sequence
+CUST0353,Ford,Ford,Declined work recovery,Phone follow-up,69.8,0.318,615,Service,Send deferred maintenance estimate recap
+CUST0088,Chrysler Dodge Jeep Ram,Ram,Recall due,Phone + Email,69.7,0.424,341,Service,Send safety recall booking sequence
+CUST0267,Ford,Commercial,Recall due,Phone + Email,69.7,0.431,420,Service,Send safety recall booking sequence
+CUST0159,Chrysler Dodge Jeep Ram,Commercial,Commercial fleet service,Phone + Email,69.6,0.286,563,Commercial,Assign fleet service cadence outreach
+CUST0210,Chrysler Dodge Jeep Ram,Dodge,Recall due,Phone follow-up,69.6,0.413,577,Service,Send safety recall booking sequence
+CUST0398,Ford,Ford,Declined work recovery,Phone follow-up,69.6,0.288,580,Service,Send deferred maintenance estimate recap
+CUST0166,Chrysler Dodge Jeep Ram,Ram,Declined work recovery,Phone + Email,69.5,0.386,615,Service,Send deferred maintenance estimate recap
+CUST0256,Ford,Commercial,Declined work recovery,Phone + Email,69.4,0.353,615,Service,Send deferred maintenance estimate recap
+CUST0280,Ford,Ford,Declined work recovery,Email + SMS,69.3,0.313,751,Service,Send deferred maintenance estimate recap
+CUST0291,Ford,Commercial,Declined work recovery,Email + SMS,69.3,0.342,444,Service,Send deferred maintenance estimate recap
+CUST0435,Ford,Commercial,Hunter alignment finding,Advisor video + SMS,69.3,0.397,341,Service,Send alignment finding video and tire offer
+CUST0332,Chrysler Dodge Jeep Ram,Dodge,Hunter alignment finding,Advisor video + SMS,69.0,0.409,276,Service,Send alignment finding video and tire offer
+CUST0358,Ford,Commercial,State inspection due,Email + SMS,69.0,0.341,474,Service,Trigger inspection reminder with online scheduler
+CUST0297,Chrysler Dodge Jeep Ram,Commercial,State inspection due,Phone + Email,68.6,0.327,451,Service,Trigger inspection reminder with online scheduler
+CUST0355,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Email + SMS,68.6,0.347,403,Service,Trigger inspection reminder with online scheduler
+CUST0476,Chrysler Dodge Jeep Ram,Chrysler,Declined work recovery,Phone + Email,68.4,0.365,444,Service,Send deferred maintenance estimate recap
+CUST0465,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Phone + Email,68.3,0.372,427,Service,Trigger inspection reminder with online scheduler
+CUST0300,Chrysler Dodge Jeep Ram,Chrysler,Recall due,Phone + Email,68.1,0.444,393,Service,Send safety recall booking sequence
+CUST0358,Ford,Commercial,Hunter alignment finding,Advisor video + SMS,68.1,0.371,324,Service,Send alignment finding video and tire offer
+CUST0450,Chrysler Dodge Jeep Ram,Commercial,Recall due,Phone follow-up,68.1,0.403,341,Service,Send safety recall booking sequence
+CUST0462,Chrysler Dodge Jeep Ram,Commercial,Hunter alignment finding,Advisor video + SMS,67.9,0.387,260,Service,Send alignment finding video and tire offer
+CUST0353,Ford,Ford,State inspection due,Phone follow-up,67.8,0.338,427,Service,Trigger inspection reminder with online scheduler
+CUST0398,Ford,Ford,State inspection due,Phone follow-up,67.8,0.308,403,Service,Trigger inspection reminder with online scheduler
+CUST0025,Chrysler Dodge Jeep Ram,Dodge,Hunter alignment finding,Advisor video + SMS,67.7,0.421,373,Service,Send alignment finding video and tire offer
+CUST0090,Chrysler Dodge Jeep Ram,Chrysler,Declined work recovery,Email + SMS,67.6,0.279,649,Service,Send deferred maintenance estimate recap
+CUST0053,Chrysler Dodge Jeep Ram,Dodge,Recall due,Email + SMS,67.5,0.426,498,Service,Send safety recall booking sequence
+CUST0470,Chrysler Dodge Jeep Ram,Jeep,Declined work recovery,Phone follow-up,67.4,0.291,444,Service,Send deferred maintenance estimate recap
+CUST0088,Chrysler Dodge Jeep Ram,Ram,Declined work recovery,Phone + Email,67.3,0.334,444,Service,Send deferred maintenance estimate recap
+CUST0320,Chrysler Dodge Jeep Ram,Jeep,Hunter alignment finding,Advisor video + SMS,67.3,0.344,211,Service,Send alignment finding video and tire offer
+CUST0370,Ford,Commercial,Recall due,Phone + Email,67.3,0.447,446,Service,Send safety recall booking sequence
+CUST0434,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Phone + Email,67.3,0.363,308,Service,Trigger inspection reminder with online scheduler
+CUST0080,Ford,Commercial,Declined work recovery,Email + SMS,67.2,0.328,751,Service,Send deferred maintenance estimate recap
+CUST0408,Chrysler Dodge Jeep Ram,Dodge,Recall due,Email + SMS,67.2,0.384,551,Service,Send safety recall booking sequence
+CUST0165,Chrysler Dodge Jeep Ram,Ram,Recall due,Email + SMS,67.1,0.413,341,Service,Send safety recall booking sequence
+CUST0285,Ford,Ford,Recall due,Email + SMS,67.1,0.445,472,Service,Send safety recall booking sequence
+CUST0373,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Phone + Email,67.1,0.342,380,Service,Trigger inspection reminder with online scheduler
+CUST0337,Ford,Ford,Service lapse 12+ months,Phone follow-up,67.0,0.22,449,Service,Run win-back offer with advisor call list
+CUST0452,Ford,Commercial,Hunter alignment finding,Advisor video + SMS,67.0,0.368,341,Service,Send alignment finding video and tire offer
+CUST0195,Ford,Commercial,State inspection due,Phone follow-up,66.9,0.358,356,Service,Trigger inspection reminder with online scheduler
+CUST0229,Ford,Ford,Recall due,Email + SMS,66.9,0.427,577,Service,Send safety recall booking sequence
+CUST0322,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Email + SMS,66.9,0.319,498,Service,Trigger inspection reminder with online scheduler
+CUST0230,Chrysler Dodge Jeep Ram,Dodge,Service lapse 12+ months,Email + SMS,66.8,0.258,367,Service,Run win-back offer with advisor call list
+CUST0306,Chrysler Dodge Jeep Ram,Ram,Service lapse 12+ months,Phone follow-up,66.8,0.245,408,Service,Run win-back offer with advisor call list
+CUST0339,Chrysler Dodge Jeep Ram,Commercial,Service lapse 12+ months,Phone + Email,66.8,0.265,265,Service,Run win-back offer with advisor call list
+CUST0280,Ford,Ford,State inspection due,Email + SMS,66.7,0.333,522,Service,Trigger inspection reminder with online scheduler
+CUST0123,Ford,Commercial,Service lapse 12+ months,Email + SMS,66.6,0.261,449,Service,Run win-back offer with advisor call list
+CUST0256,Ford,Commercial,Hunter alignment finding,Advisor video + SMS,66.6,0.403,292,Service,Send alignment finding video and tire offer
+CUST0352,Chrysler Dodge Jeep Ram,Jeep,Hunter alignment finding,Advisor video + SMS,66.6,0.344,292,Service,Send alignment finding video and tire offer
+CUST0140,Ford,Commercial,Hunter alignment finding,Advisor video + SMS,66.5,0.338,406,Service,Send alignment finding video and tire offer
+CUST0450,Chrysler Dodge Jeep Ram,Commercial,Commercial fleet service,Phone follow-up,66.5,0.293,563,Commercial,Assign fleet service cadence outreach
+CUST0458,Chrysler Dodge Jeep Ram,Commercial,Service lapse 12+ months,Email + SMS,66.3,0.244,306,Service,Run win-back offer with advisor call list
+CUST0047,Ford,Commercial,State inspection due,Email + SMS,66.2,0.337,356,Service,Trigger inspection reminder with online scheduler
+CUST0191,Chrysler Dodge Jeep Ram,Ram,State inspection due,Email + SMS,66.2,0.361,474,Service,Trigger inspection reminder with online scheduler
+CUST0470,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Phone follow-up,66.2,0.311,308,Service,Trigger inspection reminder with online scheduler
+CUST0147,Chrysler Dodge Jeep Ram,Jeep,Recall due,Phone follow-up,66.1,0.38,420,Service,Send safety recall booking sequence
+CUST0390,Ford,Ford,Recall due,Email + SMS,66.1,0.414,551,Service,Send safety recall booking sequence
+CUST0133,Chrysler Dodge Jeep Ram,Chrysler,Service lapse 12+ months,Phone follow-up,66.0,0.212,408,Service,Run win-back offer with advisor call list
+CUST0161,Chrysler Dodge Jeep Ram,Commercial,Declined work recovery,Email + SMS,65.9,0.314,615,Service,Send deferred maintenance estimate recap
+CUST0261,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Phone + Email,65.8,0.309,380,Service,Trigger inspection reminder with online scheduler
+CUST0210,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Phone follow-up,65.6,0.343,522,Service,Trigger inspection reminder with online scheduler
+CUST0241,Chrysler Dodge Jeep Ram,Chrysler,Recall due,Email + SMS,65.6,0.423,472,Service,Send safety recall booking sequence
+CUST0376,Chrysler Dodge Jeep Ram,Jeep,Recall due,Email + SMS,65.6,0.415,367,Service,Send safety recall booking sequence
+CUST0310,Chrysler Dodge Jeep Ram,Ram,Hunter alignment finding,Advisor video + SMS,65.5,0.375,324,Service,Send alignment finding video and tire offer
+CUST0406,Ford,Ford,State inspection due,Email + SMS,65.5,0.295,427,Service,Trigger inspection reminder with online scheduler
+CUST0018,Ford,Ford,Hunter alignment finding,Advisor video + SMS,65.3,0.372,243,Service,Send alignment finding video and tire offer
+CUST0252,Ford,Commercial,Recall due,Phone follow-up,65.3,0.383,498,Service,Send safety recall booking sequence
+CUST0319,Chrysler Dodge Jeep Ram,Ram,Recall due,Phone follow-up,65.3,0.375,393,Service,Send safety recall booking sequence
+CUST0288,Chrysler Dodge Jeep Ram,Commercial,Recall due,Phone + Email,65.2,0.415,472,Service,Send safety recall booking sequence
+CUST0343,Ford,Ford,State inspection due,Email + SMS,64.9,0.361,427,Service,Trigger inspection reminder with online scheduler
+CUST0438,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Email + SMS,64.8,0.381,498,Service,Trigger inspection reminder with online scheduler
+CUST0063,Ford,Commercial,Recall due,Email + SMS,64.7,0.415,446,Service,Send safety recall booking sequence
+CUST0478,Ford,Commercial,Service lapse 12+ months,Email + SMS,64.7,0.255,367,Service,Run win-back offer with advisor call list
+CUST0090,Chrysler Dodge Jeep Ram,Chrysler,Hunter alignment finding,Advisor video + SMS,64.6,0.329,308,Service,Send alignment finding video and tire offer
+CUST0309,Ford,Commercial,Service lapse 12+ months,Phone + Email,64.6,0.255,285,Service,Run win-back offer with advisor call list
+CUST0152,Chrysler Dodge Jeep Ram,Commercial,State inspection due,Email + SMS,64.5,0.332,403,Service,Trigger inspection reminder with online scheduler
+CUST0297,Chrysler Dodge Jeep Ram,Commercial,Service lapse 12+ months,Phone + Email,64.5,0.257,387,Service,Run win-back offer with advisor call list
+CUST0020,Chrysler Dodge Jeep Ram,Dodge,Declined work recovery,Email + SMS,64.4,0.32,512,Service,Send deferred maintenance estimate recap
+CUST0318,Chrysler Dodge Jeep Ram,Ram,State inspection due,Phone + Email,64.4,0.387,308,Service,Trigger inspection reminder with online scheduler
+CUST0274,Chrysler Dodge Jeep Ram,Jeep,Service lapse 12+ months,Phone + Email,64.3,0.27,265,Service,Run win-back offer with advisor call list
+CUST0318,Chrysler Dodge Jeep Ram,Ram,Hunter alignment finding,Advisor video + SMS,64.3,0.417,211,Service,Send alignment finding video and tire offer
+CUST0450,Chrysler Dodge Jeep Ram,Commercial,Hunter alignment finding,Advisor video + SMS,64.3,0.363,211,Service,Send alignment finding video and tire offer
+CUST0063,Ford,Commercial,Commercial fleet service,Email + SMS,64.2,0.305,736,Commercial,Assign fleet service cadence outreach
+CUST0248,Chrysler Dodge Jeep Ram,Jeep,Declined work recovery,Email + SMS,64.1,0.309,444,Service,Send deferred maintenance estimate recap
+CUST0343,Ford,Ford,Hunter alignment finding,Advisor video + SMS,64.1,0.391,292,Service,Send alignment finding video and tire offer
+CUST0032,Ford,Commercial,Declined work recovery,Email + SMS,64.0,0.337,615,Service,Send deferred maintenance estimate recap
+CUST0157,Chrysler Dodge Jeep Ram,Commercial,Declined work recovery,Email + SMS,64.0,0.304,444,Service,Send deferred maintenance estimate recap
+CUST0152,Chrysler Dodge Jeep Ram,Commercial,Hunter alignment finding,Advisor video + SMS,63.9,0.362,276,Service,Send alignment finding video and tire offer
+CUST0167,Ford,Ford,Declined work recovery,Email + SMS,63.9,0.325,649,Service,Send deferred maintenance estimate recap
+CUST0397,Chrysler Dodge Jeep Ram,Jeep,Commercial fleet service,Email + SMS,63.9,0.282,866,Commercial,Assign fleet service cadence outreach
+CUST0452,Ford,Commercial,Service lapse 12+ months,Phone + Email,63.8,0.268,428,Service,Run win-back offer with advisor call list
+CUST0243,Ford,Commercial,Recall due,Phone follow-up,63.7,0.439,446,Service,Send safety recall booking sequence
+CUST0140,Ford,Commercial,Service lapse 12+ months,Email + SMS,63.6,0.238,510,Service,Run win-back offer with advisor call list
+CUST0320,Chrysler Dodge Jeep Ram,Jeep,Service lapse 12+ months,Email + SMS,63.6,0.244,265,Service,Run win-back offer with advisor call list
+CUST0165,Chrysler Dodge Jeep Ram,Ram,State inspection due,Email + SMS,63.5,0.343,308,Service,Trigger inspection reminder with online scheduler
+CUST0428,Chrysler Dodge Jeep Ram,Dodge,Declined work recovery,Email + SMS,63.5,0.316,615,Service,Send deferred maintenance estimate recap
+CUST0434,Chrysler Dodge Jeep Ram,Dodge,Service lapse 12+ months,Phone + Email,63.5,0.293,265,Service,Run win-back offer with advisor call list
+CUST0367,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Email + SMS,63.4,0.353,403,Service,Trigger inspection reminder with online scheduler
+CUST0422,Ford,Ford,Recall due,Phone + Email,63.4,0.421,420,Service,Send safety recall booking sequence
+CUST0121,Chrysler Dodge Jeep Ram,Chrysler,Hunter alignment finding,Advisor video + SMS,63.3,0.349,276,Service,Send alignment finding video and tire offer
+CUST0173,Ford,Ford,Declined work recovery,Phone + Email,63.3,0.323,512,Service,Send deferred maintenance estimate recap
+CUST0285,Ford,Ford,State inspection due,Email + SMS,63.3,0.375,427,Service,Trigger inspection reminder with online scheduler
+CUST0376,Chrysler Dodge Jeep Ram,Jeep,Declined work recovery,Email + SMS,63.3,0.325,478,Service,Send deferred maintenance estimate recap
+CUST0373,Chrysler Dodge Jeep Ram,Chrysler,Service lapse 12+ months,Phone + Email,63.1,0.272,326,Service,Run win-back offer with advisor call list
+CUST0113,Ford,Ford,Service lapse 12+ months,Email + SMS,63.0,0.268,347,Service,Run win-back offer with advisor call list
+CUST0020,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Email + SMS,62.9,0.34,356,Service,Trigger inspection reminder with online scheduler
+CUST0138,Chrysler Dodge Jeep Ram,Chrysler,Declined work recovery,Email + SMS,62.9,0.342,512,Service,Send deferred maintenance estimate recap
+CUST0001,Ford,Ford,Declined work recovery,Phone + Email,62.8,0.332,615,Service,Send deferred maintenance estimate recap
+CUST0184,Chrysler Dodge Jeep Ram,Chrysler,Commercial fleet service,Phone follow-up,62.8,0.284,866,Commercial,Assign fleet service cadence outreach
+CUST0240,Ford,Ford,Recall due,Phone follow-up,62.8,0.376,341,Service,Send safety recall booking sequence
+CUST0367,Chrysler Dodge Jeep Ram,Jeep,Hunter alignment finding,Advisor video + SMS,62.8,0.383,276,Service,Send alignment finding video and tire offer
+CUST0037,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Email + SMS,62.7,0.311,403,Service,Trigger inspection reminder with online scheduler
+CUST0020,Chrysler Dodge Jeep Ram,Dodge,Hunter alignment finding,Advisor video + SMS,62.6,0.37,243,Service,Send alignment finding video and tire offer
+CUST0134,Chrysler Dodge Jeep Ram,Jeep,Recall due,Email + SMS,62.6,0.424,420,Service,Send safety recall booking sequence
+CUST0028,Ford,Ford,Commercial fleet service,Email + SMS,62.5,0.289,780,Commercial,Assign fleet service cadence outreach
+CUST0044,Chrysler Dodge Jeep Ram,Dodge,Declined work recovery,Phone + Email,62.5,0.349,717,Service,Send deferred maintenance estimate recap
+CUST0280,Ford,Ford,Service lapse 12+ months,Email + SMS,62.4,0.263,449,Service,Run win-back offer with advisor call list
+CUST0414,Chrysler Dodge Jeep Ram,Chrysler,Service lapse 12+ months,Phone follow-up,62.4,0.239,326,Service,Run win-back offer with advisor call list
+CUST0470,Chrysler Dodge Jeep Ram,Jeep,Service lapse 12+ months,Phone follow-up,62.3,0.24,265,Service,Run win-back offer with advisor call list
+CUST0407,Ford,Ford,Declined work recovery,Phone + Email,62.2,0.365,478,Service,Send deferred maintenance estimate recap
+CUST0032,Ford,Commercial,State inspection due,Email + SMS,62.1,0.357,427,Service,Trigger inspection reminder with online scheduler
+CUST0390,Ford,Ford,State inspection due,Email + SMS,62.1,0.344,498,Service,Trigger inspection reminder with online scheduler
+CUST0041,Chrysler Dodge Jeep Ram,Ram,State inspection due,Phone + Email,62.0,0.381,474,Service,Trigger inspection reminder with online scheduler
+CUST0065,Chrysler Dodge Jeep Ram,Dodge,Recall due,Email + SMS,62.0,0.431,446,Service,Send safety recall booking sequence
+CUST0116,Chrysler Dodge Jeep Ram,Commercial,Declined work recovery,Email + SMS,62.0,0.345,649,Service,Send deferred maintenance estimate recap
+CUST0376,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Email + SMS,61.9,0.345,332,Service,Trigger inspection reminder with online scheduler
+CUST0018,Ford,Ford,Service lapse 12+ months,Phone + Email,61.8,0.272,306,Service,Run win-back offer with advisor call list
+CUST0261,Chrysler Dodge Jeep Ram,Chrysler,Service lapse 12+ months,Phone + Email,61.8,0.239,326,Service,Run win-back offer with advisor call list
+CUST0329,Chrysler Dodge Jeep Ram,Commercial,Commercial fleet service,Phone + Email,61.8,0.342,563,Commercial,Assign fleet service cadence outreach
+CUST0204,Ford,Commercial,Declined work recovery,Email + SMS,61.7,0.353,444,Service,Send deferred maintenance estimate recap
+CUST0171,Chrysler Dodge Jeep Ram,Jeep,Declined work recovery,Email + SMS,61.6,0.341,444,Service,Send deferred maintenance estimate recap
+CUST0364,Ford,Ford,Hunter alignment finding,Advisor video + SMS,61.6,0.379,243,Service,Send alignment finding video and tire offer
+CUST0379,Chrysler Dodge Jeep Ram,Commercial,Declined work recovery,Phone + Email,61.5,0.348,649,Service,Send deferred maintenance estimate recap
+CUST0406,Ford,Ford,Service lapse 12+ months,Email + SMS,61.5,0.225,367,Service,Run win-back offer with advisor call list
+CUST0428,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Email + SMS,61.5,0.336,427,Service,Trigger inspection reminder with online scheduler
+CUST0082,Ford,Commercial,Declined work recovery,Phone follow-up,61.4,0.303,580,Service,Send deferred maintenance estimate recap
+CUST0138,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Email + SMS,61.4,0.362,356,Service,Trigger inspection reminder with online scheduler
+CUST0071,Ford,Commercial,Commercial fleet service,Phone + Email,61.3,0.309,606,Commercial,Assign fleet service cadence outreach
+CUST0090,Chrysler Dodge Jeep Ram,Chrysler,Service lapse 12+ months,Email + SMS,61.3,0.229,387,Service,Run win-back offer with advisor call list
+CUST0321,Ford,Commercial,State inspection due,Email + SMS,61.3,0.323,380,Service,Trigger inspection reminder with online scheduler
+CUST0167,Ford,Ford,Hunter alignment finding,Advisor video + SMS,60.9,0.375,308,Service,Send alignment finding video and tire offer
+CUST0110,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Phone follow-up,60.8,0.345,356,Service,Trigger inspection reminder with online scheduler
+CUST0436,Chrysler Dodge Jeep Ram,Dodge,Declined work recovery,Phone follow-up,60.8,0.291,478,Service,Send deferred maintenance estimate recap
+CUST0317,Ford,Ford,State inspection due,Email + SMS,60.6,0.294,427,Service,Trigger inspection reminder with online scheduler
+CUST0407,Ford,Ford,Hunter alignment finding,Advisor video + SMS,60.6,0.415,227,Service,Send alignment finding video and tire offer
+CUST0156,Ford,Commercial,Hunter alignment finding,Advisor video + SMS,60.5,0.385,227,Service,Send alignment finding video and tire offer
+CUST0204,Ford,Commercial,State inspection due,Email + SMS,60.5,0.373,308,Service,Trigger inspection reminder with online scheduler
+CUST0252,Ford,Commercial,Hunter alignment finding,Advisor video + SMS,60.5,0.343,308,Service,Send alignment finding video and tire offer
+CUST0308,Ford,Commercial,Declined work recovery,Email + SMS,60.5,0.297,580,Service,Send deferred maintenance estimate recap
+CUST0389,Chrysler Dodge Jeep Ram,Commercial,Hunter alignment finding,Advisor video + SMS,60.5,0.366,308,Service,Send alignment finding video and tire offer
+CUST0110,Chrysler Dodge Jeep Ram,Chrysler,Hunter alignment finding,Advisor video + SMS,60.4,0.375,243,Service,Send alignment finding video and tire offer
+CUST0171,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Email + SMS,60.4,0.361,308,Service,Trigger inspection reminder with online scheduler
+CUST0242,Chrysler Dodge Jeep Ram,Ram,State inspection due,Phone + Email,60.3,0.367,451,Service,Trigger inspection reminder with online scheduler
+CUST0253,Ford,Commercial,State inspection due,Email + SMS,60.2,0.346,451,Service,Trigger inspection reminder with online scheduler
+CUST0289,Chrysler Dodge Jeep Ram,Ram,Hunter alignment finding,Advisor video + SMS,60.1,0.348,211,Service,Send alignment finding video and tire offer
+CUST0430,Chrysler Dodge Jeep Ram,Commercial,Declined work recovery,Phone follow-up,60.1,0.303,580,Service,Send deferred maintenance estimate recap
+CUST0464,Ford,Commercial,Recall due,Email + SMS,59.9,0.451,367,Service,Send safety recall booking sequence
+CUST0161,Chrysler Dodge Jeep Ram,Commercial,Service lapse 12+ months,Email + SMS,59.8,0.264,367,Service,Run win-back offer with advisor call list
+CUST0345,Ford,Ford,State inspection due,Email + SMS,59.8,0.346,403,Service,Trigger inspection reminder with online scheduler
+CUST0232,Ford,Ford,Recall due,Email + SMS,59.7,0.439,393,Service,Send safety recall booking sequence
+CUST0329,Chrysler Dodge Jeep Ram,Commercial,State inspection due,Phone + Email,59.7,0.382,308,Service,Trigger inspection reminder with online scheduler
+CUST0397,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Email + SMS,59.7,0.322,474,Service,Trigger inspection reminder with online scheduler
+CUST0006,Chrysler Dodge Jeep Ram,Commercial,Declined work recovery,Phone + Email,59.6,0.337,717,Service,Send deferred maintenance estimate recap
+CUST0051,Chrysler Dodge Jeep Ram,Dodge,Recall due,Phone follow-up,59.6,0.396,367,Service,Send safety recall booking sequence
+CUST0356,Ford,Commercial,State inspection due,Phone + Email,59.5,0.37,427,Service,Trigger inspection reminder with online scheduler
+CUST0372,Ford,Ford,Declined work recovery,Phone + Email,59.4,0.35,649,Service,Send deferred maintenance estimate recap
+CUST0345,Ford,Ford,Hunter alignment finding,Advisor video + SMS,59.2,0.376,276,Service,Send alignment finding video and tire offer
+CUST0375,Chrysler Dodge Jeep Ram,Ram,Recall due,Email + SMS,59.2,0.4,472,Service,Send safety recall booking sequence
+CUST0022,Chrysler Dodge Jeep Ram,Dodge,Recall due,Email + SMS,59.1,0.424,367,Service,Send safety recall booking sequence
+CUST0102,Ford,Commercial,Service lapse 12+ months,Email + SMS,59.1,0.27,306,Service,Run win-back offer with advisor call list
+CUST0122,Ford,Commercial,State inspection due,Email + SMS,59.1,0.363,451,Service,Trigger inspection reminder with online scheduler
+CUST0188,Chrysler Dodge Jeep Ram,Jeep,Recall due,Phone follow-up,59.1,0.409,472,Service,Send safety recall booking sequence
+CUST0248,Chrysler Dodge Jeep Ram,Jeep,Service lapse 12+ months,Email + SMS,59.1,0.259,265,Service,Run win-back offer with advisor call list
+CUST0116,Chrysler Dodge Jeep Ram,Commercial,Hunter alignment finding,Advisor video + SMS,59.0,0.395,308,Service,Send alignment finding video and tire offer
+CUST0157,Chrysler Dodge Jeep Ram,Commercial,Service lapse 12+ months,Email + SMS,59.0,0.255,265,Service,Run win-back offer with advisor call list
+CUST0071,Ford,Commercial,State inspection due,Phone + Email,58.9,0.349,332,Service,Trigger inspection reminder with online scheduler
+CUST0028,Ford,Ford,State inspection due,Email + SMS,58.8,0.329,427,Service,Trigger inspection reminder with online scheduler
+CUST0338,Chrysler Dodge Jeep Ram,Ram,Recall due,Phone follow-up,58.7,0.389,341,Service,Send safety recall booking sequence
+CUST0184,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Phone follow-up,58.5,0.324,474,Service,Trigger inspection reminder with online scheduler
+CUST0211,Ford,Ford,Declined work recovery,Phone follow-up,58.4,0.292,615,Service,Send deferred maintenance estimate recap
+CUST0305,Chrysler Dodge Jeep Ram,Ram,State inspection due,Phone + Email,58.3,0.362,356,Service,Trigger inspection reminder with online scheduler
+CUST0340,Chrysler Dodge Jeep Ram,Dodge,Recall due,Email + SMS,58.3,0.43,341,Service,Send safety recall booking sequence
+CUST0033,Ford,Commercial,Service lapse 12+ months,Email + SMS,58.2,0.269,428,Service,Run win-back offer with advisor call list
+CUST0439,Chrysler Dodge Jeep Ram,Commercial,Commercial fleet service,Email + SMS,58.1,0.26,823,Commercial,Assign fleet service cadence outreach
+CUST0036,Chrysler Dodge Jeep Ram,Jeep,Service lapse 12+ months,Email + SMS,57.9,0.208,387,Service,Run win-back offer with advisor call list
+CUST0092,Chrysler Dodge Jeep Ram,Chrysler,Commercial fleet service,Phone + Email,57.9,0.338,823,Commercial,Assign fleet service cadence outreach
+CUST0173,Ford,Ford,Service lapse 12+ months,Phone + Email,57.9,0.273,306,Service,Run win-back offer with advisor call list
+CUST0239,Ford,Ford,Declined work recovery,Phone + Email,57.9,0.352,649,Service,Send deferred maintenance estimate recap
+CUST0421,Ford,Commercial,State inspection due,Phone follow-up,57.8,0.317,356,Service,Trigger inspection reminder with online scheduler
+CUST0319,Chrysler Dodge Jeep Ram,Ram,Service lapse 12+ months,Phone follow-up,57.7,0.235,306,Service,Run win-back offer with advisor call list
+CUST0386,Ford,Commercial,State inspection due,Email + SMS,57.7,0.344,451,Service,Trigger inspection reminder with online scheduler
+CUST0120,Chrysler Dodge Jeep Ram,Ram,State inspection due,Email + SMS,57.6,0.316,474,Service,Trigger inspection reminder with online scheduler
+CUST0225,Ford,Ford,Hunter alignment finding,Advisor video + SMS,57.5,0.421,308,Service,Send alignment finding video and tire offer
+CUST0299,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Email + SMS,57.5,0.357,427,Service,Trigger inspection reminder with online scheduler
+CUST0395,Ford,Commercial,State inspection due,Email + SMS,57.5,0.353,498,Service,Trigger inspection reminder with online scheduler
+CUST0268,Ford,Ford,State inspection due,Email + SMS,57.4,0.376,427,Service,Trigger inspection reminder with online scheduler
+CUST0381,Chrysler Dodge Jeep Ram,Ram,Declined work recovery,Email + SMS,57.4,0.264,649,Service,Send deferred maintenance estimate recap
+CUST0321,Ford,Commercial,Service lapse 12+ months,Email + SMS,57.3,0.253,326,Service,Run win-back offer with advisor call list
+CUST0162,Chrysler Dodge Jeep Ram,Jeep,Recall due,Email + SMS,57.2,0.421,446,Service,Send safety recall booking sequence
+CUST0448,Ford,Commercial,Declined work recovery,Phone follow-up,57.2,0.259,649,Service,Send deferred maintenance estimate recap
+CUST0127,Chrysler Dodge Jeep Ram,Ram,Hunter alignment finding,Advisor video + SMS,57.1,0.381,227,Service,Send alignment finding video and tire offer
+CUST0281,Chrysler Dodge Jeep Ram,Chrysler,Declined work recovery,Phone follow-up,57.1,0.289,580,Service,Send deferred maintenance estimate recap
+CUST0338,Chrysler Dodge Jeep Ram,Ram,Commercial fleet service,Phone follow-up,57.1,0.279,563,Commercial,Assign fleet service cadence outreach
+CUST0048,Ford,Ford,Declined work recovery,Phone + Email,57.0,0.347,615,Service,Send deferred maintenance estimate recap
+CUST0335,Chrysler Dodge Jeep Ram,Dodge,Declined work recovery,Email + SMS,57.0,0.292,717,Service,Send deferred maintenance estimate recap
+CUST0094,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Email + SMS,56.9,0.358,308,Service,Trigger inspection reminder with online scheduler
+CUST0307,Chrysler Dodge Jeep Ram,Commercial,State inspection due,Email + SMS,56.8,0.365,356,Service,Trigger inspection reminder with online scheduler
+CUST0120,Chrysler Dodge Jeep Ram,Ram,Hunter alignment finding,Advisor video + SMS,56.6,0.346,324,Service,Send alignment finding video and tire offer
+CUST0317,Ford,Ford,Service lapse 12+ months,Email + SMS,56.5,0.224,367,Service,Run win-back offer with advisor call list
+CUST0289,Chrysler Dodge Jeep Ram,Ram,Service lapse 12+ months,Email + SMS,56.4,0.248,265,Service,Run win-back offer with advisor call list
+CUST0293,Chrysler Dodge Jeep Ram,Ram,State inspection due,Phone + Email,56.1,0.353,380,Service,Trigger inspection reminder with online scheduler
+CUST0013,Chrysler Dodge Jeep Ram,Commercial,State inspection due,Email + SMS,56.0,0.336,403,Service,Trigger inspection reminder with online scheduler
+CUST0054,Chrysler Dodge Jeep Ram,Commercial,Commercial fleet service,Email + SMS,56.0,0.307,693,Commercial,Assign fleet service cadence outreach
+CUST0311,Ford,Ford,Service lapse 12+ months,Email + SMS,56.0,0.245,306,Service,Run win-back offer with advisor call list
+CUST0070,Ford,Ford,Declined work recovery,Email + SMS,55.8,0.354,615,Service,Send deferred maintenance estimate recap
+CUST0239,Ford,Ford,State inspection due,Phone + Email,55.7,0.372,451,Service,Trigger inspection reminder with online scheduler
+CUST0436,Chrysler Dodge Jeep Ram,Dodge,Service lapse 12+ months,Phone follow-up,55.6,0.241,285,Service,Run win-back offer with advisor call list
+CUST0287,Ford,Ford,State inspection due,Email + SMS,55.5,0.355,403,Service,Trigger inspection reminder with online scheduler
+CUST0181,Chrysler Dodge Jeep Ram,Jeep,Recall due,Email + SMS,55.4,0.399,393,Service,Send safety recall booking sequence
+CUST0427,Chrysler Dodge Jeep Ram,Commercial,State inspection due,Email + SMS,55.4,0.365,308,Service,Trigger inspection reminder with online scheduler
+CUST0108,Chrysler Dodge Jeep Ram,Chrysler,Commercial fleet service,Phone + Email,55.3,0.347,693,Commercial,Assign fleet service cadence outreach
+CUST0240,Ford,Ford,Service lapse 12+ months,Phone follow-up,55.3,0.236,265,Service,Run win-back offer with advisor call list
+CUST0277,Ford,Commercial,State inspection due,Email + SMS,55.3,0.339,451,Service,Trigger inspection reminder with online scheduler
+CUST0290,Chrysler Dodge Jeep Ram,Jeep,Declined work recovery,Email + SMS,55.3,0.29,444,Service,Send deferred maintenance estimate recap
+CUST0374,Chrysler Dodge Jeep Ram,Ram,Hunter alignment finding,Advisor video + SMS,55.3,0.385,260,Service,Send alignment finding video and tire offer
+CUST0199,Chrysler Dodge Jeep Ram,Ram,Recall due,Email + SMS,55.2,0.407,367,Service,Send safety recall booking sequence
+CUST0314,Ford,Commercial,Recall due,Email + SMS,55.2,0.399,393,Service,Send safety recall booking sequence
+CUST0427,Chrysler Dodge Jeep Ram,Commercial,Hunter alignment finding,Advisor video + SMS,55.2,0.395,211,Service,Send alignment finding video and tire offer
+CUST0126,Chrysler Dodge Jeep Ram,Dodge,Hunter alignment finding,Advisor video + SMS,55.1,0.402,324,Service,Send alignment finding video and tire offer
+CUST0071,Ford,Commercial,Service lapse 12+ months,Phone + Email,55.0,0.279,285,Service,Run win-back offer with advisor call list
+CUST0175,Chrysler Dodge Jeep Ram,Chrysler,Declined work recovery,Email + SMS,55.0,0.31,615,Service,Send deferred maintenance estimate recap
+CUST0075,Ford,Ford,State inspection due,Email + SMS,54.7,0.369,356,Service,Trigger inspection reminder with online scheduler
+CUST0029,Ford,Ford,State inspection due,Email + SMS,54.6,0.36,356,Service,Trigger inspection reminder with online scheduler
+CUST0054,Chrysler Dodge Jeep Ram,Commercial,Declined work recovery,Email + SMS,54.6,0.327,546,Service,Send deferred maintenance estimate recap
+CUST0163,Chrysler Dodge Jeep Ram,Ram,Hunter alignment finding,Advisor video + SMS,54.6,0.361,211,Service,Send alignment finding video and tire offer
+CUST0292,Ford,Commercial,Declined work recovery,Email + SMS,54.5,0.337,615,Service,Send deferred maintenance estimate recap
+CUST0357,Ford,Commercial,Declined work recovery,Email + SMS,54.5,0.351,478,Service,Send deferred maintenance estimate recap
+CUST0441,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Phone + Email,54.5,0.357,380,Service,Trigger inspection reminder with online scheduler
+CUST0128,Chrysler Dodge Jeep Ram,Dodge,Declined work recovery,Phone + Email,54.4,0.335,546,Service,Send deferred maintenance estimate recap
+CUST0155,Chrysler Dodge Jeep Ram,Dodge,Commercial fleet service,Email + SMS,54.4,0.261,736,Commercial,Assign fleet service cadence outreach
+CUST0247,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Email + SMS,54.3,0.358,403,Service,Trigger inspection reminder with online scheduler
+CUST0040,Chrysler Dodge Jeep Ram,Dodge,Hunter alignment finding,Advisor video + SMS,54.2,0.392,357,Service,Send alignment finding video and tire offer
+CUST0454,Ford,Ford,State inspection due,Email + SMS,54.2,0.353,427,Service,Trigger inspection reminder with online scheduler
+CUST0045,Ford,Commercial,Service lapse 12+ months,Email + SMS,54.1,0.249,408,Service,Run win-back offer with advisor call list
+CUST0421,Ford,Commercial,Service lapse 12+ months,Phone follow-up,53.9,0.247,306,Service,Run win-back offer with advisor call list
+CUST0206,Chrysler Dodge Jeep Ram,Commercial,Recall due,Phone follow-up,53.8,0.395,367,Service,Send safety recall booking sequence
+CUST0012,Chrysler Dodge Jeep Ram,Ram,Declined work recovery,Phone follow-up,53.5,0.29,546,Service,Send deferred maintenance estimate recap
+CUST0176,Ford,Commercial,State inspection due,Phone follow-up,53.5,0.332,451,Service,Trigger inspection reminder with online scheduler
+CUST0467,Ford,Commercial,Commercial fleet service,Email + SMS,53.5,0.261,736,Commercial,Assign fleet service cadence outreach
+CUST0219,Ford,Ford,Declined work recovery,Phone + Email,53.2,0.354,444,Service,Send deferred maintenance estimate recap
+CUST0011,Chrysler Dodge Jeep Ram,Dodge,Hunter alignment finding,Advisor video + SMS,53.1,0.395,243,Service,Send alignment finding video and tire offer
+CUST0260,Ford,Commercial,Recall due,Phone follow-up,53.0,0.371,498,Service,Send safety recall booking sequence
+CUST0224,Ford,Ford,Declined work recovery,Email + SMS,52.9,0.345,546,Service,Send deferred maintenance estimate recap
+CUST0021,Chrysler Dodge Jeep Ram,Ram,Commercial fleet service,Email + SMS,52.8,0.346,650,Commercial,Assign fleet service cadence outreach
+CUST0416,Ford,Commercial,State inspection due,Email + SMS,52.6,0.361,403,Service,Trigger inspection reminder with online scheduler
+CUST0197,Chrysler Dodge Jeep Ram,Ram,State inspection due,Phone follow-up,52.5,0.313,498,Service,Trigger inspection reminder with online scheduler
+CUST0208,Ford,Ford,Service lapse 12+ months,Email + SMS,52.4,0.281,326,Service,Run win-back offer with advisor call list
+CUST0211,Ford,Ford,Service lapse 12+ months,Phone follow-up,52.3,0.242,367,Service,Run win-back offer with advisor call list
+CUST0456,Ford,Commercial,State inspection due,Email + SMS,52.3,0.334,427,Service,Trigger inspection reminder with online scheduler
+CUST0016,Chrysler Dodge Jeep Ram,Chrysler,Hunter alignment finding,Advisor video + SMS,52.1,0.397,324,Service,Send alignment finding video and tire offer
+CUST0442,Ford,Commercial,Hunter alignment finding,Advisor video + SMS,52.0,0.396,227,Service,Send alignment finding video and tire offer
+CUST0447,Chrysler Dodge Jeep Ram,Dodge,Hunter alignment finding,Advisor video + SMS,52.0,0.332,276,Service,Send alignment finding video and tire offer
+CUST0360,Ford,Ford,Hunter alignment finding,Advisor video + SMS,51.9,0.364,308,Service,Send alignment finding video and tire offer
+CUST0012,Chrysler Dodge Jeep Ram,Ram,State inspection due,Phone follow-up,51.8,0.31,380,Service,Trigger inspection reminder with online scheduler
+CUST0323,Chrysler Dodge Jeep Ram,Ram,Declined work recovery,Email + SMS,51.7,0.37,444,Service,Send deferred maintenance estimate recap
+CUST0158,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Email + SMS,51.6,0.325,451,Service,Trigger inspection reminder with online scheduler
+CUST0190,Chrysler Dodge Jeep Ram,Ram,State inspection due,Email + SMS,51.6,0.326,451,Service,Trigger inspection reminder with online scheduler
+CUST0432,Ford,Ford,Declined work recovery,Email + SMS,51.4,0.319,649,Service,Send deferred maintenance estimate recap
+CUST0359,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Email + SMS,51.3,0.335,451,Service,Trigger inspection reminder with online scheduler
+CUST0269,Chrysler Dodge Jeep Ram,Commercial,State inspection due,Email + SMS,51.1,0.327,380,Service,Trigger inspection reminder with online scheduler
+CUST0381,Chrysler Dodge Jeep Ram,Ram,Service lapse 12+ months,Email + SMS,51.1,0.214,387,Service,Run win-back offer with advisor call list
+CUST0146,Chrysler Dodge Jeep Ram,Chrysler,Recall due,Phone follow-up,51.0,0.411,341,Service,Send safety recall booking sequence
+CUST0449,Chrysler Dodge Jeep Ram,Ram,Commercial fleet service,Phone + Email,51.0,0.31,693,Commercial,Assign fleet service cadence outreach
+CUST0164,Ford,Ford,State inspection due,Email + SMS,50.9,0.33,427,Service,Trigger inspection reminder with online scheduler
+CUST0471,Ford,Ford,Service lapse 12+ months,Email + SMS,50.9,0.271,367,Service,Run win-back offer with advisor call list
+CUST0463,Chrysler Dodge Jeep Ram,Ram,Service lapse 12+ months,Phone + Email,50.5,0.271,306,Service,Run win-back offer with advisor call list
+CUST0233,Chrysler Dodge Jeep Ram,Chrysler,Hunter alignment finding,Advisor video + SMS,50.4,0.367,243,Service,Send alignment finding video and tire offer
+CUST0024,Chrysler Dodge Jeep Ram,Commercial,Recall due,Email + SMS,50.3,0.41,341,Service,Send safety recall booking sequence
+CUST0290,Chrysler Dodge Jeep Ram,Jeep,Service lapse 12+ months,Email + SMS,50.3,0.24,265,Service,Run win-back offer with advisor call list
+CUST0178,Ford,Ford,Declined work recovery,Email + SMS,50.1,0.33,444,Service,Send deferred maintenance estimate recap
+CUST0439,Chrysler Dodge Jeep Ram,Commercial,Service lapse 12+ months,Email + SMS,50.0,0.23,387,Service,Run win-back offer with advisor call list
+CUST0461,Ford,Ford,Service lapse 12+ months,Email + SMS,49.9,0.255,408,Service,Run win-back offer with advisor call list
+CUST0301,Chrysler Dodge Jeep Ram,Commercial,Service lapse 12+ months,Email + SMS,49.7,0.237,387,Service,Run win-back offer with advisor call list
+CUST0368,Chrysler Dodge Jeep Ram,Dodge,Service lapse 12+ months,Phone + Email,49.5,0.28,285,Service,Run win-back offer with advisor call list
+CUST0202,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Email + SMS,49.4,0.357,522,Service,Trigger inspection reminder with online scheduler
+CUST0400,Chrysler Dodge Jeep Ram,Jeep,State inspection due,Email + SMS,49.3,0.318,380,Service,Trigger inspection reminder with online scheduler
+CUST0098,Chrysler Dodge Jeep Ram,Commercial,Service lapse 12+ months,Email + SMS,49.2,0.26,367,Service,Run win-back offer with advisor call list
+CUST0135,Ford,Ford,Declined work recovery,Email + SMS,49.1,0.342,478,Service,Send deferred maintenance estimate recap
+CUST0415,Chrysler Dodge Jeep Ram,Jeep,Declined work recovery,Email + SMS,49.0,0.339,444,Service,Send deferred maintenance estimate recap
+CUST0473,Ford,Ford,Declined work recovery,Email + SMS,48.8,0.315,478,Service,Send deferred maintenance estimate recap
+CUST0251,Chrysler Dodge Jeep Ram,Commercial,Declined work recovery,Email + SMS,48.6,0.35,478,Service,Send deferred maintenance estimate recap
+CUST0447,Chrysler Dodge Jeep Ram,Dodge,Service lapse 12+ months,Email + SMS,48.6,0.232,347,Service,Run win-back offer with advisor call list
+CUST0180,Chrysler Dodge Jeep Ram,Jeep,Service lapse 12+ months,Email + SMS,48.2,0.27,347,Service,Run win-back offer with advisor call list
+CUST0331,Chrysler Dodge Jeep Ram,Dodge,Hunter alignment finding,Advisor video + SMS,48.0,0.394,243,Service,Send alignment finding video and tire offer
+CUST0146,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Phone follow-up,47.3,0.341,308,Service,Trigger inspection reminder with online scheduler
+CUST0349,Ford,Commercial,Declined work recovery,Email + SMS,47.3,0.325,444,Service,Send deferred maintenance estimate recap
+CUST0129,Chrysler Dodge Jeep Ram,Dodge,Service lapse 12+ months,Email + SMS,47.2,0.243,408,Service,Run win-back offer with advisor call list
+CUST0336,Ford,Commercial,Declined work recovery,Email + SMS,47.2,0.316,444,Service,Send deferred maintenance estimate recap
+CUST0473,Ford,Ford,Hunter alignment finding,Advisor video + SMS,47.2,0.365,227,Service,Send alignment finding video and tire offer
+CUST0155,Chrysler Dodge Jeep Ram,Dodge,Service lapse 12+ months,Email + SMS,47.1,0.23,347,Service,Run win-back offer with advisor call list
+CUST0227,Ford,Commercial,Service lapse 12+ months,Email + SMS,47.1,0.225,428,Service,Run win-back offer with advisor call list
+CUST0328,Chrysler Dodge Jeep Ram,Chrysler,Service lapse 12+ months,Email + SMS,47.1,0.252,367,Service,Run win-back offer with advisor call list
+CUST0200,Ford,Ford,Declined work recovery,Email + SMS,46.9,0.323,546,Service,Send deferred maintenance estimate recap
+CUST0002,Ford,Ford,Declined work recovery,Email + SMS,46.7,0.326,478,Service,Send deferred maintenance estimate recap
+CUST0205,Chrysler Dodge Jeep Ram,Dodge,Commercial fleet service,Phone follow-up,46.7,0.296,736,Commercial,Assign fleet service cadence outreach
+CUST0150,Chrysler Dodge Jeep Ram,Dodge,Service lapse 12+ months,Email + SMS,46.4,0.26,306,Service,Run win-back offer with advisor call list
+CUST0142,Ford,Commercial,Service lapse 12+ months,Phone follow-up,46.2,0.238,367,Service,Run win-back offer with advisor call list
+CUST0349,Ford,Commercial,State inspection due,Email + SMS,46.1,0.345,308,Service,Trigger inspection reminder with online scheduler
+CUST0336,Ford,Commercial,State inspection due,Email + SMS,46.0,0.336,308,Service,Trigger inspection reminder with online scheduler
+CUST0387,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Email + SMS,46.0,0.373,451,Service,Trigger inspection reminder with online scheduler
+CUST0336,Ford,Commercial,Hunter alignment finding,Advisor video + SMS,45.9,0.366,211,Service,Send alignment finding video and tire offer
+CUST0455,Ford,Ford,Hunter alignment finding,Advisor video + SMS,45.8,0.381,227,Service,Send alignment finding video and tire offer
+CUST0066,Ford,Ford,Hunter alignment finding,Advisor video + SMS,45.7,0.365,276,Service,Send alignment finding video and tire offer
+CUST0084,Ford,Commercial,State inspection due,Email + SMS,45.6,0.336,308,Service,Trigger inspection reminder with online scheduler
+CUST0186,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Email + SMS,45.5,0.346,403,Service,Trigger inspection reminder with online scheduler
+CUST0183,Ford,Commercial,Service lapse 12+ months,Phone + Email,45.3,0.254,285,Service,Run win-back offer with advisor call list
+CUST0378,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Phone follow-up,44.9,0.332,380,Service,Trigger inspection reminder with online scheduler
+CUST0223,Ford,Ford,Service lapse 12+ months,Email + SMS,44.6,0.25,347,Service,Run win-back offer with advisor call list
+CUST0259,Ford,Ford,State inspection due,Email + SMS,44.3,0.356,474,Service,Trigger inspection reminder with online scheduler
+CUST0073,Chrysler Dodge Jeep Ram,Commercial,Hunter alignment finding,Advisor video + SMS,44.2,0.398,211,Service,Send alignment finding video and tire offer
+CUST0385,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Phone follow-up,44.1,0.314,403,Service,Trigger inspection reminder with online scheduler
+CUST0257,Ford,Commercial,Service lapse 12+ months,Email + SMS,44.0,0.251,347,Service,Run win-back offer with advisor call list
+CUST0327,Ford,Ford,Commercial fleet service,Phone follow-up,43.6,0.304,650,Commercial,Assign fleet service cadence outreach
+CUST0480,Ford,Ford,Hunter alignment finding,Advisor video + SMS,43.5,0.37,211,Service,Send alignment finding video and tire offer
+CUST0031,Chrysler Dodge Jeep Ram,Dodge,Service lapse 12+ months,Email + SMS,43.2,0.25,326,Service,Run win-back offer with advisor call list
+CUST0060,Chrysler Dodge Jeep Ram,Jeep,Service lapse 12+ months,Email + SMS,43.0,0.251,265,Service,Run win-back offer with advisor call list
+CUST0169,Ford,Commercial,State inspection due,Email + SMS,43.0,0.296,308,Service,Trigger inspection reminder with online scheduler
+CUST0409,Ford,Ford,State inspection due,Email + SMS,43.0,0.322,308,Service,Trigger inspection reminder with online scheduler
+CUST0124,Ford,Commercial,Service lapse 12+ months,Phone + Email,42.9,0.264,265,Service,Run win-back offer with advisor call list
+CUST0244,Chrysler Dodge Jeep Ram,Chrysler,Service lapse 12+ months,Email + SMS,42.9,0.265,265,Service,Run win-back offer with advisor call list
+CUST0179,Ford,Commercial,Service lapse 12+ months,Email + SMS,42.7,0.237,347,Service,Run win-back offer with advisor call list
+CUST0235,Ford,Ford,Service lapse 12+ months,Email + SMS,42.7,0.249,265,Service,Run win-back offer with advisor call list
+CUST0418,Ford,Commercial,Service lapse 12+ months,Email + SMS,42.7,0.247,347,Service,Run win-back offer with advisor call list
+CUST0344,Chrysler Dodge Jeep Ram,Commercial,Service lapse 12+ months,Email + SMS,42.6,0.246,347,Service,Run win-back offer with advisor call list
+CUST0091,Ford,Commercial,State inspection due,Phone follow-up,42.2,0.342,380,Service,Trigger inspection reminder with online scheduler
+CUST0010,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Phone + Email,42.1,0.339,308,Service,Trigger inspection reminder with online scheduler
+CUST0132,Ford,Ford,Hunter alignment finding,Advisor video + SMS,42.1,0.374,243,Service,Send alignment finding video and tire offer
+CUST0010,Chrysler Dodge Jeep Ram,Chrysler,Hunter alignment finding,Advisor video + SMS,42.0,0.369,211,Service,Send alignment finding video and tire offer
+CUST0104,Chrysler Dodge Jeep Ram,Ram,State inspection due,Phone follow-up,41.9,0.315,308,Service,Trigger inspection reminder with online scheduler
+CUST0042,Ford,Commercial,State inspection due,Phone follow-up,40.8,0.317,308,Service,Trigger inspection reminder with online scheduler
+CUST0341,Chrysler Dodge Jeep Ram,Commercial,Service lapse 12+ months,Phone follow-up,40.8,0.248,285,Service,Run win-back offer with advisor call list
+CUST0451,Chrysler Dodge Jeep Ram,Ram,Service lapse 12+ months,Phone follow-up,40.3,0.21,387,Service,Run win-back offer with advisor call list
+CUST0168,Chrysler Dodge Jeep Ram,Ram,State inspection due,Email + SMS,40.2,0.328,451,Service,Trigger inspection reminder with online scheduler
+CUST0222,Ford,Ford,State inspection due,Phone follow-up,40.2,0.262,356,Service,Trigger inspection reminder with online scheduler
+CUST0064,Ford,Ford,State inspection due,Email + SMS,40.0,0.338,451,Service,Trigger inspection reminder with online scheduler
+CUST0057,Chrysler Dodge Jeep Ram,Chrysler,State inspection due,Email + SMS,39.3,0.353,332,Service,Trigger inspection reminder with online scheduler
+CUST0313,Chrysler Dodge Jeep Ram,Commercial,Service lapse 12+ months,Email + SMS,39.3,0.216,326,Service,Run win-back offer with advisor call list
+CUST0169,Ford,Commercial,Service lapse 12+ months,Email + SMS,39.1,0.226,265,Service,Run win-back offer with advisor call list
+CUST0038,Chrysler Dodge Jeep Ram,Ram,Service lapse 12+ months,Phone follow-up,38.2,0.246,265,Service,Run win-back offer with advisor call list
+CUST0144,Chrysler Dodge Jeep Ram,Dodge,State inspection due,Phone follow-up,37.9,0.322,380,Service,Trigger inspection reminder with online scheduler
+CUST0325,Chrysler Dodge Jeep Ram,Dodge,Declined work recovery,Phone follow-up,37.8,0.297,444,Service,Send deferred maintenance estimate recap
+CUST0222,Ford,Ford,Service lapse 12+ months,Phone follow-up,36.3,0.192,306,Service,Run win-back offer with advisor call list
+CUST0334,Chrysler Dodge Jeep Ram,Commercial,State inspection due,Email + SMS,34.1,0.327,380,Service,Trigger inspection reminder with online scheduler
+CUST0361,Ford,Commercial,State inspection due,Phone follow-up,33.4,0.335,356,Service,Trigger inspection reminder with online scheduler
+CUST0027,Chrysler Dodge Jeep Ram,Dodge,Service lapse 12+ months,Email + SMS,33.1,0.202,265,Service,Run win-back offer with advisor call list

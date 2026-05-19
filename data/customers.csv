@@ -1,0 +1,481 @@
+customer_id,rooftop,market,brand,customer_type,months_since_service,lifetime_repair_orders,last_repair_order_gross,open_recall,inspection_due_days,hunter_alignment_flag,declined_work_flag,phone_answer_rate,email_engagement
+CUST0001,Ford,Willow Street,Ford,Commercial,10,6,436,0,124,0,1,0.73,0.4
+CUST0002,Ford,Willow Street,Ford,Retail,8,2,197,0,72,0,1,0.49,0.4
+CUST0003,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,5,6,235,1,100,0,1,0.68,0.31
+CUST0004,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Commercial,7,6,438,0,98,0,0,0.74,0.22
+CUST0005,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,4,8,233,1,-35,0,0,0.63,0.52
+CUST0006,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,5,9,486,0,99,0,1,0.82,0.23
+CUST0007,Ford,Willow Street,Ford,Retail,0,9,198,0,69,0,0,0.29,0.17
+CUST0008,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Fleet,14,7,293,1,-35,1,0,0.47,0.25
+CUST0009,Ford,Willow Street,Commercial,Retail,21,3,468,0,63,0,0,0.56,0.28
+CUST0010,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,8,1,477,0,34,1,0,0.74,0.18
+CUST0011,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Commercial,0,3,281,0,54,1,0,0.87,0.13
+CUST0012,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,7,4,261,0,-35,0,1,0.39,0.02
+CUST0013,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Commercial,6,5,105,0,27,0,0,0.51,0.2
+CUST0014,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,11,5,140,1,23,0,1,0.66,0.36
+CUST0015,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,7,3,466,0,176,0,0,0.66,0.24
+CUST0016,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,0,8,443,0,89,1,0,0.65,0.27
+CUST0017,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,5,6,285,0,210,0,0,0.96,0.53
+CUST0018,Ford,Willow Street,Ford,Fleet,12,3,206,0,59,1,0,0.76,0.33
+CUST0019,Ford,Willow Street,Commercial,Retail,6,1,320,0,-35,0,0,0.89,0.43
+CUST0020,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,3,3,325,0,22,1,1,0.4,0.21
+CUST0021,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Fleet,2,3,331,0,62,0,0,0.6,0.58
+CUST0022,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,7,2,207,1,161,0,0,0.69,0.34
+CUST0023,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,8,5,288,0,112,0,0,0.94,0.31
+CUST0024,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,2,1,323,1,80,0,0,0.39,0.18
+CUST0025,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,9,11,440,0,86,1,0,0.96,0.67
+CUST0026,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,9,5,497,0,121,0,0,0.53,0.3
+CUST0027,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,24,1,390,0,71,0,0,0.28,0.22
+CUST0028,Ford,Willow Street,Ford,Fleet,10,6,307,0,13,0,0,0.66,0.18
+CUST0029,Ford,Willow Street,Ford,Retail,10,3,443,0,-35,0,0,0.51,0.61
+CUST0030,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,6,6,465,0,105,0,0,0.71,0.22
+CUST0031,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,14,4,380,0,102,0,0,0.44,0.33
+CUST0032,Ford,Willow Street,Commercial,Retail,3,6,346,0,-35,0,1,0.22,0.5
+CUST0033,Ford,Willow Street,Commercial,Retail,19,9,115,0,50,0,0,0.72,0.56
+CUST0034,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,7,8,380,0,55,0,0,0.43,0.38
+CUST0035,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Commercial,19,3,234,0,6,0,1,0.75,0.31
+CUST0036,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,26,7,134,0,-22,0,0,0.58,0.19
+CUST0037,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,19,5,292,0,22,0,0,0.56,0.33
+CUST0038,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,12,1,439,0,47,0,0,0.58,0.15
+CUST0039,Ford,Willow Street,Commercial,Commercial,9,1,280,0,107,0,0,0.52,0.25
+CUST0040,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,3,10,343,0,74,1,0,0.48,0.41
+CUST0041,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,0,8,132,0,0,0,0,0.79,0.35
+CUST0042,Ford,Willow Street,Commercial,Retail,8,1,392,0,6,0,0,0.46,0.09
+CUST0043,Ford,Willow Street,Commercial,Commercial,17,4,413,0,3,1,0,0.7,0.26
+CUST0044,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,5,9,146,0,135,0,1,0.84,0.36
+CUST0045,Ford,Willow Street,Commercial,Retail,23,8,313,0,59,0,0,0.63,0.52
+CUST0046,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,9,7,95,0,-35,0,1,0.53,0.54
+CUST0047,Ford,Willow Street,Commercial,Retail,9,3,226,1,-35,0,0,0.55,0.29
+CUST0048,Ford,Willow Street,Ford,Retail,4,6,180,0,52,0,1,0.87,0.28
+CUST0049,Ford,Willow Street,Ford,Retail,8,1,259,0,181,0,0,0.6,0.21
+CUST0050,Ford,Willow Street,Ford,Retail,0,6,130,0,10,0,0,0.45,0.35
+CUST0051,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Commercial,8,2,564,1,65,0,0,0.63,0.1
+CUST0052,Ford,Willow Street,Commercial,Retail,14,5,214,0,84,0,0,0.28,0.79
+CUST0053,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,9,7,340,1,86,0,0,0.67,0.44
+CUST0054,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Fleet,5,4,346,0,82,0,1,0.48,0.31
+CUST0055,Ford,Willow Street,Commercial,Retail,18,9,95,0,63,0,0,0.64,0.39
+CUST0056,Ford,Willow Street,Commercial,Retail,16,6,130,1,5,0,0,0.74,0.4
+CUST0057,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,11,2,160,0,44,0,0,0.53,0.55
+CUST0058,Ford,Willow Street,Ford,Fleet,11,6,249,1,20,1,1,0.39,0.41
+CUST0059,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,7,10,361,0,77,0,0,0.66,0.24
+CUST0060,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,19,1,347,0,73,0,0,0.6,0.42
+CUST0061,Ford,Willow Street,Commercial,Fleet,2,4,314,0,64,0,0,0.96,0.56
+CUST0062,Ford,Willow Street,Ford,Fleet,7,2,472,0,84,0,0,0.72,0.53
+CUST0063,Ford,Willow Street,Commercial,Fleet,3,5,262,1,84,0,0,0.52,0.2
+CUST0064,Ford,Willow Street,Ford,Retail,7,7,400,0,41,0,0,0.44,0.3
+CUST0065,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,3,5,371,1,72,0,0,0.58,0.34
+CUST0066,Ford,Willow Street,Ford,Retail,9,5,216,0,82,1,0,0.56,0.27
+CUST0067,Ford,Willow Street,Commercial,Retail,8,10,370,0,48,0,0,0.25,0.32
+CUST0068,Ford,Willow Street,Commercial,Commercial,13,2,306,1,1,0,0,0.39,0.23
+CUST0069,Ford,Willow Street,Commercial,Retail,5,8,163,0,34,0,0,0.5,0.29
+CUST0070,Ford,Willow Street,Ford,Retail,0,6,95,0,196,0,1,0.71,0.32
+CUST0071,Ford,Willow Street,Commercial,Commercial,14,2,160,0,42,0,0,0.73,0.49
+CUST0072,Ford,Willow Street,Commercial,Retail,8,5,203,0,147,0,0,0.78,0.22
+CUST0073,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,0,1,476,0,53,1,0,0.76,0.22
+CUST0074,Ford,Willow Street,Ford,Retail,11,2,239,0,82,0,0,0.66,0.4
+CUST0075,Ford,Willow Street,Ford,Retail,6,3,202,0,-4,0,0,0.57,0.54
+CUST0076,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Fleet,5,12,238,0,-16,0,0,0.76,0.44
+CUST0077,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Fleet,5,12,235,0,7,0,0,0.85,0.41
+CUST0078,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Commercial,11,10,299,0,99,0,0,0.58,0.26
+CUST0079,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,2,6,279,0,24,0,1,0.77,0.49
+CUST0080,Ford,Willow Street,Commercial,Commercial,9,10,95,0,69,0,1,0.72,0.32
+CUST0081,Ford,Willow Street,Commercial,Fleet,11,2,290,0,43,0,0,0.51,0.15
+CUST0082,Ford,Willow Street,Commercial,Retail,10,5,395,0,-4,0,1,0.8,0.03
+CUST0083,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,11,5,342,0,54,0,0,0.32,0.62
+CUST0084,Ford,Willow Street,Commercial,Retail,8,1,162,0,-35,0,0,0.57,0.24
+CUST0085,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Commercial,17,7,95,0,1,0,1,0.87,0.56
+CUST0086,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,8,4,305,1,4,0,1,0.63,0.23
+CUST0087,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,17,10,512,1,57,1,0,0.74,0.55
+CUST0088,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,11,1,375,1,60,0,1,0.8,0.41
+CUST0089,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,0,4,479,0,87,0,0,0.68,0.33
+CUST0090,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,17,7,95,0,107,1,1,0.45,0.19
+CUST0091,Ford,Willow Street,Commercial,Fleet,3,4,244,0,35,0,0,0.65,0.09
+CUST0092,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Commercial,0,7,135,0,122,0,0,0.88,0.27
+CUST0093,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Commercial,12,5,270,0,-35,0,0,0.58,0.41
+CUST0094,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Commercial,7,1,199,0,16,0,0,0.63,0.42
+CUST0095,Ford,Willow Street,Commercial,Retail,9,7,152,0,93,0,0,0.39,0.26
+CUST0096,Ford,Willow Street,Commercial,Retail,8,10,379,0,24,1,0,0.89,0.45
+CUST0097,Ford,Willow Street,Ford,Commercial,11,8,225,0,111,0,0,0.67,0.37
+CUST0098,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,15,6,145,0,98,0,0,0.57,0.4
+CUST0099,Ford,Willow Street,Commercial,Retail,8,6,323,0,52,0,0,0.63,0.21
+CUST0100,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Commercial,12,7,246,0,-23,0,1,0.65,0.3
+CUST0101,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Commercial,3,3,255,1,-15,1,0,0.7,0.13
+CUST0102,Ford,Willow Street,Commercial,Retail,12,3,166,0,9,0,0,0.57,0.42
+CUST0103,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,13,9,113,0,196,1,1,0.62,0.44
+CUST0104,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,11,1,290,0,-35,0,0,0.45,0.17
+CUST0105,Ford,Willow Street,Commercial,Retail,15,6,255,1,108,0,0,0.56,0.36
+CUST0106,Ford,Willow Street,Ford,Retail,12,4,191,0,16,0,0,0.96,0.43
+CUST0107,Ford,Willow Street,Ford,Retail,6,5,335,0,67,0,0,0.51,0.34
+CUST0108,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Fleet,1,4,116,0,173,0,0,0.86,0.41
+CUST0109,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,7,2,257,0,-35,0,0,0.53,0.3
+CUST0110,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,9,3,131,0,18,1,0,0.96,0.16
+CUST0111,Ford,Willow Street,Ford,Retail,4,6,238,0,88,0,0,0.63,0.43
+CUST0112,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,0,3,118,0,37,0,0,0.68,0.42
+CUST0113,Ford,Willow Street,Ford,Retail,15,5,227,0,-35,0,0,0.63,0.46
+CUST0114,Ford,Willow Street,Commercial,Commercial,13,9,173,0,22,0,0,0.53,0.39
+CUST0115,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,9,9,388,1,-8,0,0,0.55,0.6
+CUST0116,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,0,7,307,0,130,1,1,0.49,0.34
+CUST0117,Ford,Willow Street,Commercial,Retail,8,6,262,1,-6,1,0,0.29,0.39
+CUST0118,Ford,Willow Street,Commercial,Retail,12,5,277,0,187,0,0,0.73,0.42
+CUST0119,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,4,1,487,0,106,0,0,0.36,0.22
+CUST0120,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,10,8,260,0,29,1,0,0.15,0.32
+CUST0121,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Commercial,15,5,152,0,137,1,0,0.57,0.28
+CUST0122,Ford,Willow Street,Commercial,Retail,6,7,150,0,-35,0,0,0.66,0.42
+CUST0123,Ford,Willow Street,Commercial,Retail,13,10,360,0,14,0,0,0.57,0.35
+CUST0124,Ford,Willow Street,Commercial,Retail,12,1,256,0,86,0,0,0.76,0.24
+CUST0125,Ford,Willow Street,Commercial,Retail,2,8,280,0,83,0,0,0.68,0.46
+CUST0126,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,7,8,128,0,102,1,0,0.24,0.79
+CUST0127,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,6,2,340,0,-35,1,0,0.63,0.3
+CUST0128,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,11,4,357,0,117,0,1,0.73,0.46
+CUST0129,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,17,8,171,0,55,0,0,0.15,0.52
+CUST0130,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,11,5,370,0,152,0,0,0.89,0.32
+CUST0131,Ford,Willow Street,Commercial,Commercial,15,1,432,0,11,0,1,0.65,0.42
+CUST0132,Ford,Willow Street,Ford,Retail,3,3,345,0,51,1,0,0.58,0.16
+CUST0133,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Commercial,24,8,206,0,-4,0,0,0.67,0.12
+CUST0134,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,11,4,332,1,83,0,0,0.38,0.65
+CUST0135,Ford,Willow Street,Ford,Retail,4,2,354,0,97,0,1,0.72,0.31
+CUST0136,Ford,Willow Street,Commercial,Commercial,0,2,320,0,58,0,0,0.64,0.17
+CUST0137,Ford,Willow Street,Commercial,Commercial,1,3,257,0,104,0,0,0.58,0.25
+CUST0138,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,5,3,248,0,-35,0,1,0.46,0.49
+CUST0139,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,6,5,548,0,107,0,0,0.89,0.17
+CUST0140,Ford,Willow Street,Commercial,Retail,20,13,95,0,84,1,0,0.49,0.37
+CUST0141,Ford,Willow Street,Ford,Retail,0,5,212,0,-10,0,0,0.83,0.17
+CUST0142,Ford,Willow Street,Commercial,Retail,17,6,223,0,98,0,0,0.73,0.14
+CUST0143,Ford,Willow Street,Ford,Fleet,1,8,141,0,195,0,0,0.57,0.34
+CUST0144,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Commercial,6,4,334,0,31,0,0,0.36,0.13
+CUST0145,Ford,Willow Street,Commercial,Retail,6,10,168,0,132,0,0,0.58,0.1
+CUST0146,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,1,1,212,1,31,0,0,0.56,0.07
+CUST0147,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,12,4,384,1,62,0,0,0.68,0.02
+CUST0148,Ford,Willow Street,Ford,Retail,2,4,416,0,54,0,0,0.4,0.3
+CUST0149,Ford,Willow Street,Commercial,Retail,11,7,208,0,37,0,0,0.69,0.58
+CUST0150,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,18,3,250,0,143,0,0,0.45,0.57
+CUST0151,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,8,2,202,0,74,0,0,0.87,0.24
+CUST0152,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Commercial,10,5,353,0,26,1,0,0.35,0.38
+CUST0153,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Fleet,14,8,381,0,0,0,0,0.61,0.39
+CUST0154,Ford,Willow Street,Ford,Retail,7,1,346,0,32,0,0,0.8,0.34
+CUST0155,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Commercial,17,5,541,0,179,0,0,0.2,0.35
+CUST0156,Ford,Willow Street,Commercial,Retail,11,2,265,0,-35,1,0,0.54,0.57
+CUST0157,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Commercial,18,1,236,0,52,0,1,0.56,0.45
+CUST0158,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,9,7,155,0,9,0,0,0.52,0.18
+CUST0159,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Fleet,17,1,225,0,-35,0,0,0.82,0.29
+CUST0160,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,6,1,295,0,-35,0,0,0.36,0.18
+CUST0161,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,16,6,419,0,88,0,1,0.52,0.51
+CUST0162,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,0,5,248,1,62,0,0,0.37,0.25
+CUST0163,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,14,1,254,0,44,1,0,0.68,0.32
+CUST0164,Ford,Willow Street,Ford,Retail,11,6,168,0,-32,0,0,0.24,0.45
+CUST0165,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,6,1,224,1,1,0,0,0.6,0.23
+CUST0166,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Fleet,0,6,185,0,86,0,1,0.76,0.64
+CUST0167,Ford,Willow Street,Ford,Commercial,1,7,300,0,46,1,1,0.39,0.2
+CUST0168,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,10,7,311,0,36,0,0,0.6,0.2
+CUST0169,Ford,Willow Street,Commercial,Retail,22,1,167,0,45,0,0,0.61,0.24
+CUST0170,Ford,Willow Street,Commercial,Retail,5,8,182,0,112,0,0,0.71,0.52
+CUST0171,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,7,1,412,0,9,0,1,0.63,0.45
+CUST0172,Ford,Willow Street,Commercial,Commercial,18,7,318,0,106,0,0,0.74,0.59
+CUST0173,Ford,Willow Street,Ford,Retail,13,3,304,0,51,0,1,0.83,0.34
+CUST0174,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,6,6,244,0,106,0,0,0.38,0.6
+CUST0175,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Commercial,8,6,271,0,74,0,1,0.39,0.27
+CUST0176,Ford,Willow Street,Commercial,Retail,7,7,353,0,-16,0,0,0.82,0.02
+CUST0177,Ford,Willow Street,Commercial,Retail,9,2,377,0,122,0,0,0.83,0.29
+CUST0178,Ford,Willow Street,Ford,Fleet,4,1,97,0,125,0,1,0.45,0.33
+CUST0179,Ford,Willow Street,Commercial,Retail,17,5,267,0,61,0,0,0.34,0.34
+CUST0180,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,12,5,335,0,134,0,0,0.49,0.46
+CUST0181,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,11,3,451,1,49,0,0,0.37,0.37
+CUST0182,Ford,Willow Street,Ford,Retail,0,7,95,1,0,0,1,0.71,0.65
+CUST0183,Ford,Willow Street,Commercial,Retail,18,2,258,0,141,0,0,0.74,0.35
+CUST0184,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Fleet,7,8,95,0,0,0,0,0.6,0.06
+CUST0185,Ford,Willow Street,Ford,Retail,11,4,95,0,106,0,0,0.37,0.51
+CUST0186,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Commercial,5,5,180,0,32,0,0,0.64,0.21
+CUST0187,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,15,8,159,0,-30,1,1,0.56,0.48
+CUST0188,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,3,6,231,1,52,0,0,0.7,0.03
+CUST0189,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,21,8,548,0,-35,1,0,0.72,0.44
+CUST0190,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,9,7,307,0,-9,0,0,0.47,0.22
+CUST0191,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Fleet,5,8,319,0,-4,0,0,0.72,0.33
+CUST0192,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,12,7,206,0,158,0,0,0.55,0.46
+CUST0193,Ford,Willow Street,Commercial,Retail,2,3,118,0,25,0,0,0.57,0.17
+CUST0194,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Commercial,11,2,122,0,55,0,0,0.64,0.28
+CUST0195,Ford,Willow Street,Commercial,Retail,0,3,367,1,1,0,0,0.71,0.14
+CUST0196,Ford,Willow Street,Ford,Commercial,6,2,264,0,38,0,0,0.63,0.02
+CUST0197,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,11,9,121,0,16,0,0,0.5,0.12
+CUST0198,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,6,11,471,0,122,0,0,0.67,0.15
+CUST0199,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,8,2,220,1,176,0,0,0.57,0.25
+CUST0200,Ford,Willow Street,Ford,Retail,4,4,170,0,89,0,1,0.52,0.21
+CUST0201,Ford,Willow Street,Ford,Retail,9,5,305,0,110,0,0,0.69,0.15
+CUST0202,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,9,10,123,0,37,0,0,0.42,0.59
+CUST0203,Ford,Willow Street,Commercial,Commercial,2,2,252,1,102,0,1,0.43,0.48
+CUST0204,Ford,Willow Street,Commercial,Retail,3,1,95,0,-35,0,1,0.54,0.5
+CUST0205,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Fleet,6,5,175,0,114,0,0,0.57,0.17
+CUST0206,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,10,2,263,1,140,0,0,0.64,0.14
+CUST0207,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,0,2,98,0,24,0,0,0.36,0.46
+CUST0208,Ford,Willow Street,Ford,Retail,16,4,162,0,159,0,0,0.65,0.63
+CUST0209,Ford,Willow Street,Commercial,Commercial,5,2,135,0,-26,0,0,0.38,0.3
+CUST0210,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,8,10,458,1,45,0,0,0.96,0.1
+CUST0211,Ford,Willow Street,Ford,Retail,12,6,247,0,102,0,1,0.45,0.17
+CUST0212,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,11,4,193,0,49,0,0,0.61,0.35
+CUST0213,Ford,Willow Street,Ford,Retail,1,6,259,0,74,0,0,0.65,0.46
+CUST0214,Ford,Willow Street,Commercial,Retail,18,9,343,0,-35,1,0,0.64,0.32
+CUST0215,Ford,Willow Street,Ford,Retail,25,5,337,1,157,0,1,0.75,0.29
+CUST0216,Ford,Willow Street,Commercial,Retail,5,1,438,0,86,0,0,0.69,0.38
+CUST0217,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,11,9,462,0,61,0,0,0.67,0.39
+CUST0218,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,6,6,129,0,141,0,0,0.83,0.43
+CUST0219,Ford,Willow Street,Ford,Retail,8,1,354,0,113,0,1,0.86,0.5
+CUST0220,Ford,Willow Street,Commercial,Retail,0,7,287,0,155,0,0,0.53,0.71
+CUST0221,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,6,3,156,0,118,0,0,0.52,0.42
+CUST0222,Ford,Willow Street,Ford,Retail,27,3,341,0,39,0,0,0.5,0.09
+CUST0223,Ford,Willow Street,Ford,Retail,14,5,324,0,61,0,0,0.43,0.34
+CUST0224,Ford,Willow Street,Ford,Retail,6,4,325,0,69,0,1,0.51,0.53
+CUST0225,Ford,Willow Street,Ford,Retail,0,7,291,0,107,1,0,0.87,0.42
+CUST0226,Ford,Willow Street,Ford,Retail,7,1,432,0,203,0,0,0.67,0.41
+CUST0227,Ford,Willow Street,Commercial,Retail,19,9,223,0,118,0,0,0.47,0.21
+CUST0228,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,4,3,283,0,87,0,0,0.57,0.34
+CUST0229,Ford,Willow Street,Ford,Retail,1,10,411,1,210,0,0,0.55,0.25
+CUST0230,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,15,6,95,1,53,0,0,0.69,0.32
+CUST0231,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Commercial,9,6,179,0,73,0,0,0.63,0.49
+CUST0232,Ford,Willow Street,Ford,Retail,0,3,441,1,186,0,0,0.61,0.32
+CUST0233,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Commercial,9,3,202,0,45,1,0,0.6,0.27
+CUST0234,Ford,Willow Street,Commercial,Retail,0,10,329,1,70,0,1,0.44,0.27
+CUST0235,Ford,Willow Street,Ford,Retail,18,1,115,0,137,0,0,0.71,0.31
+CUST0236,Ford,Willow Street,Ford,Retail,13,7,166,0,103,0,0,0.61,0.42
+CUST0237,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Commercial,9,4,338,1,1,0,0,0.35,0.32
+CUST0238,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,4,6,284,0,1,0,1,0.96,0.36
+CUST0239,Ford,Willow Street,Ford,Retail,2,7,330,0,43,0,1,0.74,0.34
+CUST0240,Ford,Willow Street,Ford,Retail,16,1,482,1,171,0,0,0.59,0.16
+CUST0241,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,10,6,241,1,197,0,0,0.57,0.5
+CUST0242,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,5,7,157,0,-35,0,0,0.8,0.36
+CUST0243,Ford,Willow Street,Commercial,Retail,0,5,171,1,53,0,0,0.87,0.17
+CUST0244,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,12,1,337,0,49,0,0,0.67,0.31
+CUST0245,Ford,Willow Street,Ford,Retail,15,4,611,1,-30,0,0,0.61,0.19
+CUST0246,Ford,Willow Street,Commercial,Fleet,2,3,414,0,210,0,0,0.54,0.34
+CUST0247,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,4,5,128,0,-28,0,0,0.66,0.3
+CUST0248,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Commercial,16,1,393,0,38,0,1,0.59,0.42
+CUST0249,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Commercial,18,3,424,0,210,0,0,0.66,0.55
+CUST0250,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,8,6,464,0,56,0,0,0.52,0.3
+CUST0251,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,0,2,406,0,144,0,1,0.68,0.29
+CUST0252,Ford,Willow Street,Commercial,Retail,9,7,366,1,77,1,0,0.57,0.02
+CUST0253,Ford,Willow Street,Commercial,Commercial,6,7,381,0,-35,0,0,0.31,0.43
+CUST0254,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,12,4,339,0,114,0,0,0.82,0.46
+CUST0255,Ford,Willow Street,Commercial,Retail,2,6,189,1,8,0,0,0.43,0.45
+CUST0256,Ford,Willow Street,Commercial,Retail,9,6,171,0,110,1,1,0.91,0.5
+CUST0257,Ford,Willow Street,Commercial,Retail,13,5,273,0,82,0,0,0.36,0.36
+CUST0258,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,5,7,298,0,74,0,0,0.53,0.3
+CUST0259,Ford,Willow Street,Ford,Retail,5,8,436,0,37,0,0,0.43,0.44
+CUST0260,Ford,Willow Street,Commercial,Retail,10,7,107,1,139,0,0,0.16,0.14
+CUST0261,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,25,4,306,0,21,0,0,0.87,0.34
+CUST0262,Ford,Willow Street,Commercial,Retail,8,1,410,0,101,0,0,0.64,0.33
+CUST0263,Ford,Willow Street,Commercial,Retail,14,8,95,1,-34,1,0,0.7,0.03
+CUST0264,Ford,Willow Street,Commercial,Retail,5,1,215,0,62,0,0,0.47,0.43
+CUST0265,Ford,Willow Street,Ford,Retail,5,5,212,0,100,0,0,0.79,0.15
+CUST0266,Ford,Willow Street,Ford,Retail,16,4,327,0,5,0,1,0.7,0.63
+CUST0267,Ford,Willow Street,Commercial,Commercial,6,4,234,1,132,0,0,0.74,0.36
+CUST0268,Ford,Willow Street,Ford,Retail,0,6,259,0,1,0,0,0.65,0.37
+CUST0269,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,16,4,185,0,34,0,0,0.66,0.36
+CUST0270,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Commercial,10,7,297,0,102,0,0,0.89,0.29
+CUST0271,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,9,4,282,0,181,0,0,0.46,0.41
+CUST0272,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,7,8,176,1,-10,0,0,0.74,0.17
+CUST0273,Ford,Willow Street,Commercial,Retail,11,5,449,0,47,0,0,0.74,0.26
+CUST0274,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Commercial,13,1,148,0,-5,0,0,0.76,0.34
+CUST0275,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,0,1,327,0,-3,0,0,0.2,0.4
+CUST0276,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Commercial,16,1,307,1,83,0,0,0.63,0.24
+CUST0277,Ford,Willow Street,Commercial,Retail,10,7,368,0,2,0,0,0.53,0.36
+CUST0278,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,5,2,305,0,88,0,0,0.69,0.27
+CUST0279,Ford,Willow Street,Commercial,Retail,0,2,188,0,71,0,0,0.54,0.27
+CUST0280,Ford,Willow Street,Ford,Retail,12,10,225,0,36,0,1,0.45,0.41
+CUST0281,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,13,5,271,0,63,0,1,0.51,0.14
+CUST0282,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,15,7,270,1,79,0,0,0.4,0.32
+CUST0283,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,14,3,391,0,210,0,0,0.61,0.26
+CUST0284,Ford,Willow Street,Ford,Retail,7,1,169,0,125,0,0,0.7,0.36
+CUST0285,Ford,Willow Street,Ford,Retail,4,6,160,1,31,0,0,0.54,0.56
+CUST0286,Ford,Willow Street,Commercial,Retail,8,2,396,0,5,0,0,0.37,0.34
+CUST0287,Ford,Willow Street,Ford,Retail,7,5,95,0,9,0,0,0.7,0.35
+CUST0288,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,11,6,101,1,46,0,0,0.77,0.33
+CUST0289,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Commercial,18,1,175,0,135,1,0,0.64,0.33
+CUST0290,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,21,1,264,0,168,0,1,0.46,0.44
+CUST0291,Ford,Willow Street,Commercial,Commercial,3,1,420,1,125,0,1,0.41,0.45
+CUST0292,Ford,Willow Street,Commercial,Retail,5,6,457,0,74,0,1,0.7,0.3
+CUST0293,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,9,4,380,0,-7,0,0,0.96,0.25
+CUST0294,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,7,3,187,0,141,0,0,0.68,0.34
+CUST0295,Ford,Willow Street,Ford,Retail,3,5,382,0,155,0,0,0.39,0.33
+CUST0296,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,2,6,400,0,98,0,0,0.8,0.36
+CUST0297,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,16,7,213,0,14,0,0,0.78,0.29
+CUST0298,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Commercial,4,9,137,0,-10,0,1,0.61,0.33
+CUST0299,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,8,6,392,0,5,0,0,0.62,0.45
+CUST0300,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,11,3,183,1,155,0,0,0.89,0.58
+CUST0301,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Fleet,14,7,249,0,50,0,0,0.21,0.32
+CUST0302,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,11,3,199,0,-24,0,0,0.41,0.18
+CUST0303,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Fleet,16,4,364,0,108,0,0,0.51,0.04
+CUST0304,Ford,Willow Street,Ford,Retail,6,3,188,0,141,0,0,0.34,0.33
+CUST0305,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Commercial,2,3,454,0,16,0,0,0.76,0.22
+CUST0306,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,15,8,344,1,165,0,0,0.77,0.13
+CUST0307,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,11,3,412,0,-29,0,0,0.64,0.62
+CUST0308,Ford,Willow Street,Commercial,Retail,15,5,110,0,116,0,1,0.62,0.23
+CUST0309,Ford,Willow Street,Commercial,Commercial,17,2,169,0,-35,0,0,0.77,0.31
+CUST0310,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,13,8,198,0,106,1,0,0.61,0.48
+CUST0311,Ford,Willow Street,Ford,Retail,17,3,309,0,-35,0,0,0.55,0.32
+CUST0312,Ford,Willow Street,Ford,Fleet,0,4,363,0,128,0,0,0.54,0.22
+CUST0313,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,21,4,300,0,53,0,0,0.43,0.19
+CUST0314,Ford,Willow Street,Commercial,Retail,10,3,277,1,167,0,0,0.41,0.32
+CUST0315,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Commercial,12,8,351,0,41,0,1,0.87,0.44
+CUST0316,Ford,Willow Street,Commercial,Commercial,13,10,422,0,-24,0,1,0.6,0.31
+CUST0317,Ford,Willow Street,Ford,Retail,20,6,144,0,22,0,0,0.49,0.22
+CUST0318,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,4,1,291,0,-35,1,0,0.87,0.51
+CUST0319,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,15,3,298,1,39,0,0,0.72,0.04
+CUST0320,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,21,1,397,0,-19,1,0,0.65,0.38
+CUST0321,Ford,Willow Street,Commercial,Retail,14,4,282,0,-35,0,0,0.51,0.33
+CUST0322,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,14,9,420,0,-35,0,0,0.48,0.3
+CUST0323,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,0,1,178,0,136,0,1,0.69,0.51
+CUST0324,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,14,8,388,1,-35,0,0,0.56,0.12
+CUST0325,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,8,1,180,0,70,0,1,0.35,0.15
+CUST0326,Ford,Willow Street,Ford,Commercial,13,9,155,0,-25,0,0,0.71,0.15
+CUST0327,Ford,Willow Street,Ford,Commercial,2,3,415,0,54,0,0,0.66,0.08
+CUST0328,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,14,6,370,0,58,0,0,0.62,0.25
+CUST0329,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Fleet,1,1,273,0,-25,0,0,0.78,0.4
+CUST0330,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,11,2,492,1,-16,0,1,0.87,0.3
+CUST0331,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,4,3,174,0,119,1,0,0.75,0.32
+CUST0332,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,1,5,222,1,54,1,0,0.65,0.44
+CUST0333,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,5,6,416,0,123,0,0,0.51,0.4
+CUST0334,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,8,4,250,0,44,0,0,0.43,0.22
+CUST0335,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Fleet,11,9,155,0,69,0,1,0.35,0.2
+CUST0336,Ford,Willow Street,Commercial,Retail,4,1,249,0,39,1,1,0.23,0.29
+CUST0337,Ford,Willow Street,Ford,Retail,15,10,95,0,-29,0,1,0.41,0.05
+CUST0338,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Commercial,11,1,175,1,45,0,0,0.72,0.07
+CUST0339,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Commercial,19,1,178,0,21,0,0,0.83,0.45
+CUST0340,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,7,1,234,1,38,0,0,0.55,0.48
+CUST0341,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,13,2,224,0,97,0,0,0.66,0.16
+CUST0342,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,17,4,303,1,-14,0,1,0.66,0.62
+CUST0343,Ford,Willow Street,Ford,Retail,5,6,116,0,21,1,0,0.7,0.34
+CUST0344,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,13,5,313,0,64,0,0,0.34,0.31
+CUST0345,Ford,Willow Street,Ford,Retail,6,5,170,0,-35,1,0,0.49,0.33
+CUST0346,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,0,1,364,0,84,0,0,0.63,0.37
+CUST0347,Ford,Willow Street,Ford,Retail,8,1,193,0,22,0,0,0.44,0.39
+CUST0348,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,11,5,208,0,210,0,0,0.71,0.15
+CUST0349,Ford,Willow Street,Commercial,Retail,11,1,409,0,36,0,1,0.67,0.38
+CUST0350,Ford,Willow Street,Ford,Retail,10,7,418,1,31,0,0,0.84,0.47
+CUST0351,Ford,Willow Street,Ford,Retail,12,7,314,0,144,0,0,0.73,0.58
+CUST0352,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Commercial,11,6,285,1,152,1,0,0.5,0.13
+CUST0353,Ford,Willow Street,Ford,Commercial,6,6,475,0,-31,0,1,0.64,0.15
+CUST0354,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,3,4,312,0,48,0,0,0.53,0.36
+CUST0355,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,14,5,196,0,24,0,0,0.64,0.52
+CUST0356,Ford,Willow Street,Commercial,Retail,4,6,287,0,-11,0,0,0.89,0.31
+CUST0357,Ford,Willow Street,Commercial,Commercial,0,2,354,0,173,0,1,0.53,0.38
+CUST0358,Ford,Willow Street,Commercial,Commercial,7,8,179,0,25,1,0,0.37,0.37
+CUST0359,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,5,7,324,0,-4,0,0,0.43,0.21
+CUST0360,Ford,Willow Street,Ford,Fleet,8,7,95,0,47,1,0,0.18,0.43
+CUST0361,Ford,Willow Street,Commercial,Retail,5,3,324,0,39,0,0,0.56,0.13
+CUST0362,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Commercial,19,3,160,1,44,0,1,0.63,0.46
+CUST0363,Ford,Willow Street,Ford,Retail,7,5,405,1,24,0,0,0.7,0.34
+CUST0364,Ford,Willow Street,Ford,Retail,13,3,287,0,112,1,0,0.88,0.38
+CUST0365,Ford,Willow Street,Commercial,Commercial,0,6,418,1,19,0,0,0.45,0.24
+CUST0366,Ford,Willow Street,Commercial,Retail,6,3,203,0,126,0,0,0.61,0.48
+CUST0367,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,9,5,531,0,-24,1,0,0.59,0.45
+CUST0368,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,14,2,285,0,165,0,0,0.84,0.45
+CUST0369,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Commercial,8,2,276,0,-35,0,1,0.56,0.56
+CUST0370,Ford,Willow Street,Commercial,Retail,4,5,460,1,206,0,0,0.76,0.46
+CUST0371,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,4,5,207,0,171,0,0,0.45,0.61
+CUST0372,Ford,Willow Street,Ford,Retail,4,7,387,0,190,0,1,0.9,0.3
+CUST0373,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,13,4,280,0,24,0,0,0.96,0.25
+CUST0374,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Commercial,7,4,189,0,61,1,0,0.75,0.32
+CUST0375,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,9,6,289,1,45,0,0,0.48,0.25
+CUST0376,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,7,2,476,1,32,0,1,0.54,0.32
+CUST0377,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Fleet,12,1,327,0,-15,0,0,0.88,0.6
+CUST0378,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,3,4,153,0,19,0,0,0.33,0.16
+CUST0379,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,8,7,282,0,56,0,1,0.96,0.38
+CUST0380,Ford,Willow Street,Ford,Retail,24,8,316,0,13,0,1,0.58,0.5
+CUST0381,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,20,7,445,0,158,0,1,0.31,0.21
+CUST0382,Ford,Willow Street,Commercial,Retail,11,9,543,0,67,0,0,0.37,0.39
+CUST0383,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Commercial,10,4,180,0,-2,0,1,0.67,0.53
+CUST0384,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,12,8,286,1,153,0,0,0.82,0.48
+CUST0385,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,7,5,323,0,-30,0,0,0.28,0.12
+CUST0386,Ford,Willow Street,Commercial,Commercial,2,7,332,0,0,0,0,0.34,0.26
+CUST0387,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,2,7,439,0,44,0,0,0.58,0.45
+CUST0388,Ford,Willow Street,Ford,Commercial,20,3,405,0,14,0,1,0.52,0.36
+CUST0389,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,9,7,150,0,16,1,0,0.41,0.36
+CUST0390,Ford,Willow Street,Ford,Retail,6,9,244,1,41,0,0,0.7,0.19
+CUST0391,Ford,Willow Street,Ford,Commercial,18,1,177,1,-18,0,0,0.47,0.28
+CUST0392,Ford,Willow Street,Ford,Retail,9,2,139,0,86,0,0,0.54,0.39
+CUST0393,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Commercial,5,4,186,0,99,0,0,0.68,0.49
+CUST0394,Ford,Willow Street,Ford,Retail,9,8,225,1,-29,0,0,0.68,0.48
+CUST0395,Ford,Willow Street,Commercial,Retail,3,9,337,0,-35,0,0,0.58,0.25
+CUST0396,Ford,Willow Street,Ford,Retail,23,7,493,0,-7,1,0,0.77,0.45
+CUST0397,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Commercial,11,8,285,0,-33,0,0,0.53,0.2
+CUST0398,Ford,Willow Street,Ford,Retail,13,5,255,0,2,0,1,0.48,0.14
+CUST0399,Ford,Willow Street,Commercial,Commercial,21,5,236,0,14,0,1,0.48,0.63
+CUST0400,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,17,4,277,0,35,0,0,0.62,0.31
+CUST0401,Ford,Willow Street,Commercial,Retail,11,13,95,0,53,0,0,0.64,0.3
+CUST0402,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,6,7,406,0,141,0,0,0.55,0.19
+CUST0403,Ford,Willow Street,Commercial,Fleet,14,3,209,1,42,0,0,0.72,0.24
+CUST0404,Ford,Willow Street,Ford,Retail,18,2,203,1,-20,1,0,0.6,0.24
+CUST0405,Ford,Willow Street,Ford,Retail,11,1,183,0,92,0,0,0.75,0.29
+CUST0406,Ford,Willow Street,Ford,Retail,27,6,169,0,-9,0,0,0.69,0.35
+CUST0407,Ford,Willow Street,Ford,Retail,2,2,127,0,152,1,1,0.92,0.39
+CUST0408,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Fleet,11,9,308,1,100,0,0,0.42,0.18
+CUST0409,Ford,Willow Street,Ford,Retail,11,1,368,0,-35,0,0,0.37,0.29
+CUST0410,Ford,Willow Street,Ford,Retail,0,6,652,0,116,0,0,0.42,0.27
+CUST0411,Ford,Willow Street,Ford,Retail,0,7,299,1,-1,0,0,0.48,0.02
+CUST0412,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,6,4,95,0,-20,0,0,0.82,0.37
+CUST0413,Ford,Willow Street,Ford,Commercial,14,6,177,1,-33,0,1,0.55,0.12
+CUST0414,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,18,4,363,1,129,0,0,0.87,0.11
+CUST0415,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,8,1,213,0,166,0,1,0.7,0.42
+CUST0416,Ford,Willow Street,Commercial,Retail,2,5,341,0,-34,0,0,0.43,0.39
+CUST0417,Ford,Willow Street,Ford,Retail,2,3,95,1,8,1,0,0.96,0.41
+CUST0418,Ford,Willow Street,Commercial,Retail,12,5,353,0,53,0,0,0.41,0.25
+CUST0419,Ford,Willow Street,Commercial,Fleet,14,6,209,1,105,0,0,0.59,0.42
+CUST0420,Ford,Willow Street,Commercial,Retail,6,6,295,0,78,0,0,0.87,0.47
+CUST0421,Ford,Willow Street,Commercial,Retail,12,3,142,0,10,0,0,0.59,0.15
+CUST0422,Ford,Willow Street,Ford,Retail,10,4,444,1,69,0,0,0.81,0.34
+CUST0423,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Commercial,12,9,253,1,5,0,0,0.63,0.26
+CUST0424,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,8,4,331,0,110,0,0,0.7,0.12
+CUST0425,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Commercial,4,4,310,0,-15,0,0,0.6,0.2
+CUST0426,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,3,10,297,1,30,0,0,0.46,0.48
+CUST0427,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,0,1,287,0,-35,1,0,0.49,0.34
+CUST0428,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,9,6,328,0,-35,0,1,0.41,0.36
+CUST0429,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,0,4,430,0,166,0,0,0.81,0.53
+CUST0430,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,9,5,420,0,-35,0,1,0.65,0.08
+CUST0431,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,11,6,253,0,139,0,0,0.67,0.41
+CUST0432,Ford,Willow Street,Ford,Retail,6,7,398,0,139,0,1,0.5,0.24
+CUST0433,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,11,4,249,0,74,0,0,0.43,0.16
+CUST0434,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,13,1,217,0,-20,0,0,0.84,0.56
+CUST0435,Ford,Willow Street,Commercial,Retail,6,9,298,0,-23,1,0,0.61,0.49
+CUST0436,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Commercial,14,2,413,0,70,0,1,0.65,0.12
+CUST0437,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,9,3,244,0,45,0,0,0.63,0.46
+CUST0438,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,4,9,116,0,-11,0,0,0.64,0.57
+CUST0439,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Commercial,16,7,261,0,83,0,0,0.4,0.2
+CUST0440,Ford,Willow Street,Commercial,Retail,8,4,298,0,92,0,0,0.63,0.1
+CUST0441,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,6,4,243,0,0,0,0,0.8,0.28
+CUST0442,Ford,Willow Street,Commercial,Fleet,2,2,95,0,46,1,0,0.63,0.34
+CUST0443,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,9,5,145,0,93,0,0,0.51,0.38
+CUST0444,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,0,9,321,0,20,0,1,0.65,0.35
+CUST0445,Ford,Willow Street,Commercial,Retail,13,4,421,0,151,0,0,0.85,0.25
+CUST0446,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,4,5,346,0,142,0,0,0.43,0.34
+CUST0447,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Retail,16,5,182,0,122,1,0,0.27,0.29
+CUST0448,Ford,Willow Street,Commercial,Retail,21,7,395,0,96,0,1,0.41,0.13
+CUST0449,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Commercial,9,4,95,0,98,0,0,0.77,0.32
+CUST0450,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Commercial,8,1,406,1,84,1,0,0.71,0.13
+CUST0451,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,19,7,283,0,151,0,0,0.31,0.13
+CUST0452,Ford,Willow Street,Commercial,Retail,14,9,291,0,99,1,0,0.86,0.3
+CUST0453,Ford,Willow Street,Commercial,Commercial,4,6,187,1,-35,0,0,0.75,0.38
+CUST0454,Ford,Willow Street,Ford,Retail,5,6,280,0,-35,0,0,0.52,0.35
+CUST0455,Ford,Willow Street,Ford,Retail,11,2,228,0,133,1,0,0.41,0.59
+CUST0456,Ford,Willow Street,Commercial,Retail,9,6,220,0,-2,0,0,0.52,0.28
+CUST0457,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,10,5,393,0,84,0,0,0.6,0.22
+CUST0458,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,18,3,429,0,-35,0,1,0.68,0.27
+CUST0459,Ford,Willow Street,Ford,Commercial,8,2,95,0,88,0,0,0.27,0.49
+CUST0460,Ford,Willow Street,Commercial,Retail,10,2,390,0,81,0,0,0.65,0.39
+CUST0461,Ford,Willow Street,Ford,Retail,13,8,407,0,149,0,0,0.6,0.27
+CUST0462,Chrysler Dodge Jeep Ram,Wrightsville,Commercial,Retail,10,4,118,1,56,1,0,0.71,0.46
+CUST0463,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Retail,16,3,95,0,107,0,0,0.96,0.35
+CUST0464,Ford,Willow Street,Commercial,Retail,0,2,236,1,106,0,0,0.39,0.57
+CUST0465,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Commercial,8,6,95,0,-6,0,0,0.84,0.49
+CUST0466,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,12,6,256,0,-35,1,0,0.54,0.52
+CUST0467,Ford,Willow Street,Commercial,Fleet,15,5,189,0,150,0,0,0.2,0.29
+CUST0468,Ford,Willow Street,Ford,Commercial,10,6,273,1,-25,0,0,0.63,0.57
+CUST0469,Chrysler Dodge Jeep Ram,Wrightsville,Ram,Commercial,11,3,118,1,-30,0,1,0.41,0.22
+CUST0470,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,16,1,241,0,0,0,1,0.79,0.1
+CUST0471,Ford,Willow Street,Ford,Retail,12,6,132,0,109,0,0,0.7,0.36
+CUST0472,Ford,Willow Street,Commercial,Commercial,16,5,357,1,56,0,0,0.34,0.49
+CUST0473,Ford,Willow Street,Ford,Retail,5,2,95,0,141,1,1,0.18,0.34
+CUST0474,Ford,Willow Street,Commercial,Retail,14,5,390,1,112,0,0,0.5,0.31
+CUST0475,Ford,Willow Street,Ford,Retail,13,10,165,0,-35,0,0,0.87,0.4
+CUST0476,Chrysler Dodge Jeep Ram,Wrightsville,Chrysler,Retail,0,1,233,1,64,0,1,0.83,0.37
+CUST0477,Chrysler Dodge Jeep Ram,Wrightsville,Jeep,Retail,5,3,340,0,154,0,0,0.86,0.49
+CUST0478,Ford,Willow Street,Commercial,Commercial,17,6,401,0,80,0,1,0.48,0.47
+CUST0479,Chrysler Dodge Jeep Ram,Wrightsville,Dodge,Fleet,10,6,271,1,32,0,0,0.7,0.47
+CUST0480,Ford,Willow Street,Ford,Commercial,4,1,432,0,210,1,0,0.15,0.38

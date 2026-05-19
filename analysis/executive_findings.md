@@ -2,14 +2,16 @@
 
 ## What I analyzed
 
-I joined 5,040 daily metric rows, 760 source events, and 220 action candidates for automotive marketing ROI and retention analytics.
+I modeled 480 synthetic dealership customers, 224 campaign performance rows, 600 service opportunity triggers, 9 source quality checks, and 4 AI automation use cases.
 
 ## Findings
 
-- The highest-priority customer campaign is CUS009 with a priority score of 93.53.
-- The top queue combines 51.3 average risk with 79.6 quality score and $773,308 estimated impact.
-- The strongest use case is turning repeated stakeholder questions into a ranked operating digest.
+- Recall outreach, declined service recovery, and service reminder programs produce the strongest modeled returns because they use first-party owner and service history rather than broad media targeting.
+- Third-party lead provider spend is the largest waste flag in the model because the attributed gross is too low relative to invoice spend.
+- The highest-priority retention queue combines recall status, state inspection timing, service lapse, declined work, and Hunter alignment findings into a manager-readable score.
+- Hunter alignment exports, phone system leads, Google Analytics events, and state inspection lists need explicit join-key and owner controls before they can be trusted in weekly reporting.
+- The most practical AI starting points are content assistance for recall outreach, explainable targeting scores for service lapse customers, inbound call summarization, and photo plus social QA checks.
 
 ## Recommendation
 
-Prioritize the top queue before scaling more dashboards. The project should help leaders decide which customer campaign risks need action, validation, or monitoring.
+Run the retention queue weekly, scale first-party service campaigns, require proof of incremental value from third-party spend, and implement AI only where a human approval control is clear.

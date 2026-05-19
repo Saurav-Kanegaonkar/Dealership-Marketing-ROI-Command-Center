@@ -1,0 +1,8 @@
+channel,spend,attributed_gross,roas,booked_appointments,show_rate,recommendation
+Recall list outreach,100284,3389827,33.8,15456,0.756,Scale
+Declined service recovery,88181,2473563,28.05,11200,0.782,Scale
+Email service reminders,138703,2182230,15.73,9593,0.782,Scale
+Paid search fixed ops,400847,276866,0.69,1225,0.759,Optimize
+Social inventory retargeting,246219,155100,0.63,401,0.731,Optimize
+Commercial service prospecting,167195,105165,0.63,501,0.749,Optimize
+Third-party lead provider,487990,184207,0.38,416,0.762,Fix measurement

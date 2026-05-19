@@ -1,0 +1,348 @@
+{
+  "summary": {
+    "total_spend": 1629419,
+    "total_gross": 8766958,
+    "avg_roas": 5.38,
+    "booked_appointments": 38792,
+    "shown_appointments": 29871,
+    "show_rate": 0.77,
+    "retention_queue_customers": 40,
+    "retention_queue_expected_gross": 7910,
+    "budget_waste": 487990,
+    "high_quality_sources": 6,
+    "source_count": 9,
+    "top_opportunity_type": "Recall due"
+  },
+  "channels": [
+    {
+      "channel": "Recall list outreach",
+      "spend": 100284,
+      "attributed_gross": 3389827,
+      "roas": 33.8,
+      "booked_appointments": 15456,
+      "show_rate": 0.756,
+      "recommendation": "Scale"
+    },
+    {
+      "channel": "Declined service recovery",
+      "spend": 88181,
+      "attributed_gross": 2473563,
+      "roas": 28.05,
+      "booked_appointments": 11200,
+      "show_rate": 0.782,
+      "recommendation": "Scale"
+    },
+    {
+      "channel": "Email service reminders",
+      "spend": 138703,
+      "attributed_gross": 2182230,
+      "roas": 15.73,
+      "booked_appointments": 9593,
+      "show_rate": 0.782,
+      "recommendation": "Scale"
+    },
+    {
+      "channel": "Paid search fixed ops",
+      "spend": 400847,
+      "attributed_gross": 276866,
+      "roas": 0.69,
+      "booked_appointments": 1225,
+      "show_rate": 0.759,
+      "recommendation": "Optimize"
+    },
+    {
+      "channel": "Social inventory retargeting",
+      "spend": 246219,
+      "attributed_gross": 155100,
+      "roas": 0.63,
+      "booked_appointments": 401,
+      "show_rate": 0.731,
+      "recommendation": "Optimize"
+    },
+    {
+      "channel": "Commercial service prospecting",
+      "spend": 167195,
+      "attributed_gross": 105165,
+      "roas": 0.63,
+      "booked_appointments": 501,
+      "show_rate": 0.749,
+      "recommendation": "Optimize"
+    },
+    {
+      "channel": "Third-party lead provider",
+      "spend": 487990,
+      "attributed_gross": 184207,
+      "roas": 0.38,
+      "booked_appointments": 416,
+      "show_rate": 0.762,
+      "recommendation": "Fix measurement"
+    }
+  ],
+  "opportunities": [
+    {
+      "customer_id": "CUST0342",
+      "rooftop": "Chrysler Dodge Jeep Ram",
+      "brand": "Commercial",
+      "opportunity_type": "Recall due",
+      "best_channel": "Email + SMS",
+      "priority_score": 99.6,
+      "predicted_book_rate": 0.418,
+      "estimated_gross": 420,
+      "owner": "Service",
+      "recommended_next_step": "Send safety recall booking sequence"
+    },
+    {
+      "customer_id": "CUST0008",
+      "rooftop": "Chrysler Dodge Jeep Ram",
+      "brand": "Jeep",
+      "opportunity_type": "Recall due",
+      "best_channel": "Email + SMS",
+      "priority_score": 98.6,
+      "predicted_book_rate": 0.384,
+      "estimated_gross": 498,
+      "owner": "Service",
+      "recommended_next_step": "Send safety recall booking sequence"
+    },
+    {
+      "customer_id": "CUST0058",
+      "rooftop": "Ford",
+      "brand": "Ford",
+      "opportunity_type": "Recall due",
+      "best_channel": "Email + SMS",
+      "priority_score": 97.4,
+      "predicted_book_rate": 0.403,
+      "estimated_gross": 472,
+      "owner": "Service",
+      "recommended_next_step": "Send safety recall booking sequence"
+    },
+    {
+      "customer_id": "CUST0413",
+      "rooftop": "Ford",
+      "brand": "Ford",
+      "opportunity_type": "Recall due",
+      "best_channel": "Phone follow-up",
+      "priority_score": 97.3,
+      "predicted_book_rate": 0.376,
+      "estimated_gross": 472,
+      "owner": "Service",
+      "recommended_next_step": "Send safety recall booking sequence"
+    },
+    {
+      "customer_id": "CUST0423",
+      "rooftop": "Chrysler Dodge Jeep Ram",
+      "brand": "Commercial",
+      "opportunity_type": "Recall due",
+      "best_channel": "Email + SMS",
+      "priority_score": 96.5,
+      "predicted_book_rate": 0.399,
+      "estimated_gross": 551,
+      "owner": "Service",
+      "recommended_next_step": "Send safety recall booking sequence"
+    },
+    {
+      "customer_id": "CUST0182",
+      "rooftop": "Ford",
+      "brand": "Ford",
+      "opportunity_type": "Recall due",
+      "best_channel": "Email + SMS",
+      "priority_score": 95.9,
+      "predicted_book_rate": 0.474,
+      "estimated_gross": 498,
+      "owner": "Service",
+      "recommended_next_step": "Send safety recall booking sequence"
+    },
+    {
+      "customer_id": "CUST0085",
+      "rooftop": "Chrysler Dodge Jeep Ram",
+      "brand": "Jeep",
+      "opportunity_type": "Declined work recovery",
+      "best_channel": "Phone + Email",
+      "priority_score": 93.4,
+      "predicted_book_rate": 0.333,
+      "estimated_gross": 649,
+      "owner": "Service",
+      "recommended_next_step": "Send deferred maintenance estimate recap"
+    },
+    {
+      "customer_id": "CUST0087",
+      "rooftop": "Chrysler Dodge Jeep Ram",
+      "brand": "Jeep",
+      "opportunity_type": "Recall due",
+      "best_channel": "Phone + Email",
+      "priority_score": 93.4,
+      "predicted_book_rate": 0.415,
+      "estimated_gross": 577,
+      "owner": "Service",
+      "recommended_next_step": "Send safety recall booking sequence"
+    },
+    {
+      "customer_id": "CUST0263",
+      "rooftop": "Ford",
+      "brand": "Commercial",
+      "opportunity_type": "Recall due",
+      "best_channel": "Phone follow-up",
+      "priority_score": 92.8,
+      "predicted_book_rate": 0.376,
+      "estimated_gross": 525,
+      "owner": "Service",
+      "recommended_next_step": "Send safety recall booking sequence"
+    },
+    {
+      "customer_id": "CUST0056",
+      "rooftop": "Ford",
+      "brand": "Commercial",
+      "opportunity_type": "Recall due",
+      "best_channel": "Phone + Email",
+      "priority_score": 90.0,
+      "predicted_book_rate": 0.405,
+      "estimated_gross": 472,
+      "owner": "Service",
+      "recommended_next_step": "Send safety recall booking sequence"
+    },
+    {
+      "customer_id": "CUST0187",
+      "rooftop": "Chrysler Dodge Jeep Ram",
+      "brand": "Ram",
+      "opportunity_type": "Declined work recovery",
+      "best_channel": "Email + SMS",
+      "priority_score": 90.0,
+      "predicted_book_rate": 0.316,
+      "estimated_gross": 683,
+      "owner": "Service",
+      "recommended_next_step": "Send deferred maintenance estimate recap"
+    },
+    {
+      "customer_id": "CUST0316",
+      "rooftop": "Ford",
+      "brand": "Commercial",
+      "opportunity_type": "Declined work recovery",
+      "best_channel": "Email + SMS",
+      "priority_score": 89.0,
+      "predicted_book_rate": 0.309,
+      "estimated_gross": 751,
+      "owner": "Service",
+      "recommended_next_step": "Send deferred maintenance estimate recap"
+    }
+  ],
+  "quality": [
+    {
+      "source": "Hunter alignment export",
+      "rows": 8230,
+      "freshness_score": 61,
+      "match_rate": 0.68,
+      "join_key": "repair_order",
+      "quality_risk": 47.9,
+      "recommended_control": "Map owner and reconcile weekly"
+    },
+    {
+      "source": "Phone system leads",
+      "rows": 7288,
+      "freshness_score": 82,
+      "match_rate": 0.72,
+      "join_key": "phone",
+      "quality_risk": 35.7,
+      "recommended_control": "Map owner and reconcile weekly"
+    },
+    {
+      "source": "Recall manifest",
+      "rows": 2960,
+      "freshness_score": 74,
+      "match_rate": 0.84,
+      "join_key": "vin",
+      "quality_risk": 22.9,
+      "recommended_control": "Monitor in weekly load check"
+    },
+    {
+      "source": "State inspection list",
+      "rows": 4865,
+      "freshness_score": 88,
+      "match_rate": 0.79,
+      "join_key": "vin",
+      "quality_risk": 20.1,
+      "recommended_control": "Monitor in weekly load check"
+    },
+    {
+      "source": "Social content calendar",
+      "rows": 2702,
+      "freshness_score": 86,
+      "match_rate": 0.81,
+      "join_key": "post_id",
+      "quality_risk": 19.6,
+      "recommended_control": "Monitor in weekly load check"
+    },
+    {
+      "source": "Google Analytics events",
+      "rows": 935,
+      "freshness_score": 96,
+      "match_rate": 0.76,
+      "join_key": "gclid",
+      "quality_risk": 18.6,
+      "recommended_control": "Monitor in weekly load check"
+    },
+    {
+      "source": "Paid media invoices",
+      "rows": 7191,
+      "freshness_score": 93,
+      "match_rate": 0.88,
+      "join_key": "campaign_id",
+      "quality_risk": 11.6,
+      "recommended_control": "Monitor in weekly load check"
+    },
+    {
+      "source": "CRM customer records",
+      "rows": 4025,
+      "freshness_score": 97,
+      "match_rate": 0.91,
+      "join_key": "customer_id",
+      "quality_risk": 7.6,
+      "recommended_control": "Monitor in weekly load check"
+    },
+    {
+      "source": "DMS service history",
+      "rows": 2466,
+      "freshness_score": 99,
+      "match_rate": 0.95,
+      "join_key": "vin",
+      "quality_risk": 4.0,
+      "recommended_control": "Monitor in weekly load check"
+    }
+  ],
+  "ai": [
+    {
+      "use_case": "Recall outreach content assistant",
+      "workflow": "Draft channel-specific copy from VIN recall type and appointment availability",
+      "owner": "Marketing",
+      "effort_hours": 12,
+      "expected_monthly_gross": 18600,
+      "risk_level": "Low",
+      "control": "Human approval before send"
+    },
+    {
+      "use_case": "Service lapse targeting score",
+      "workflow": "Prioritize customers by service gap, lifetime RO count, and response history",
+      "owner": "Service",
+      "effort_hours": 18,
+      "expected_monthly_gross": 24750,
+      "risk_level": "Medium",
+      "control": "Explainable scorecard and opt-out filters"
+    },
+    {
+      "use_case": "Inbound call summarizer",
+      "workflow": "Summarize phone leads, tag intent, and route missed opportunities",
+      "owner": "BDC",
+      "effort_hours": 22,
+      "expected_monthly_gross": 15300,
+      "risk_level": "Medium",
+      "control": "PII minimization and transcript retention policy"
+    },
+    {
+      "use_case": "Photo and social post QA checklist",
+      "workflow": "Check missing photos, captions, and brand-safe vehicle posts",
+      "owner": "Marketing",
+      "effort_hours": 10,
+      "expected_monthly_gross": 8900,
+      "risk_level": "Low",
+      "control": "Template library and final human review"
+    }
+  ]
+}
